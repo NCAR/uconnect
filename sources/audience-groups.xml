@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--$Id: audience-groups.xml,v 1.3 2011/02/25 21:52:59 ginger Exp $-->
+<opml xmlns="http://ns.nsdl.org/ncs/fields" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ns.nsdl.org/ncs/fields http://ns.nsdl.org/ncs/ncs_item/1.02/schemas/fields/non-vocab-fields.xsd"
+version="2.0">
+	<head>
+		<title>Audience</title>
+		<concept metaVersion="1.02" path="/nsdl_dc:nsdl_dc/dct:audience" audience="search" language="en" text="Audience" metaFormat="nsdl_dc"/>
+	</head>
+	<body>
+		<outline vocab="Administrator" type="group" text="Administrator" deftn="manager of projects, people, or policy" attribution="nsdl_dc:NSDLAudience">
+			<outline vocab="Administrator" type="vocab" text="Administrator"/>
+			<outline vocab="Administrators" type="vocab" text="Administrators"/>
+			<outline vocab="Curriculum Supervisors" type="vocab" text="Curriculum Supervisors"/>
+			<outline vocab="Curriculum supervisors" type="vocab" text="Curriculum supervisors"/>
+			<outline vocab="Evaluators" type="vocab" text="Evaluators"/>
+			<outline vocab="NSDL Community" type="vocab" text="NSDL Community"/>
+			<outline vocab="Policy-Makers" type="vocab" text="Policy-Makers"/>
+			<outline vocab="Policymakers" type="vocab" text="Policymakers"/>
+		</outline>  <!-- end Administrator-->
+
+		<outline vocab="Educator" type="group" text="Educator" deftn="teachers, instructors, educators, faculty" attribution="nsdl_dc:NSDLAudience">
+			<outline vocab="College/University Instructors" type="vocab" text="College/University Instructors"/>
+			<outline vocab="Continuing Education" type="vocab" text="Continuing Education"/>
+			<outline vocab="Educator" type="vocab" text="Educator"/>
+			<outline vocab="Elementary School Teachers" type="vocab" text="Elementary School Teachers"/>
+			<outline vocab="Elementary school teachers" type="vocab" text="Elementary school teachers"/>
+			<outline vocab="Faculty" type="vocab" text="Faculty"/>
+			<outline vocab="K-12 Teachers" type="vocab" text="K-12 Teachers"/>
+			<outline vocab="Middle School Teachers" type="vocab" text="Middle School Teachers"/>
+			<outline vocab="Middle school teachers" type="vocab" text="Middle school teachers"/>
+			<outline vocab="Other Educational Professionals" type="vocab" text="Other Educational Professionals"/>
+			<outline vocab="Other educational professionals" type="vocab" text="Other educational professionals"/>
+			<outline vocab="Secondary School Teachers" type="vocab" text="Secondary School Teachers"/>
+			<outline vocab="Secondary school teachers" type="vocab" text="Secondary school teachers"/>
+			<outline vocab="Student Teachers" type="vocab" text="Student Teachers"/>
+			<outline vocab="Teacher" type="vocab" text="Teacher"/>
+			<outline vocab="teacher" type="vocab" text="teacher"/>
+			<outline vocab="Teacher Educators" type="vocab" text="Teacher Educators"/>
+			<outline vocab="Teacher educators" type="vocab" text="Teacher educators"/>
+			<outline vocab="Teachers" type="vocab" text="Teachers"/>
+			<outline vocab="Teaching Professionals" type="vocab" text="Teaching Professionals"/>
+			<outline vocab="Teaching professionals" type="vocab" text="Teaching professionals"/>
+			<outline vocab="University instructors" type="vocab" text="University instructors"/>
+			<outline vocab="teachers" type="vocab" text="teachers"/>
+		</outline><!--elementary, middle, secondary, other, university instructors-->  <!-- end Educator -->
+		
+		<outline vocab="General Public" type="group" text="General Public" deftn="people in the general population" attribution="nsdl_dc:NSDLAudience">
+			<outline vocab="General public" type="vocab" text="General public"/>
+			<outline vocab="General Public" type="vocab" text="General Public"/>
+			<outline vocab="All" type="vocab" text="All"/>
+			<outline vocab="Continuous Formation" type="vocab" text="Continuous Formation"/>
+		</outline>  <!-- end General Public -->
+		
+		<outline vocab="Learner" type="group" text="Learner" deftn="all level of students or people wanting to learn " attribution="nsdl_dc:NSDLAudience">
+			<outline vocab="11-14 year olds" type="vocab" text="11-14 year olds"/>
+			<outline vocab="14-18 year olds" type="vocab" text="14-18"/>
+			<outline vocab="18 years and older individuals" type="vocab" text="18 years and older individuals"/>
+			<outline vocab="4-6 year olds" type="vocab" text="4-6 year olds"/>
+			<outline vocab="6-8 year olds" type="vocab" text="6-8 year olds"/>
+			<outline vocab="8-11 year olds" type="vocab" text="8-11 year olds"/>
+			<outline vocab="Advanced placement Students" type="vocab" text="Advanced placement Students"/>
+			<outline vocab="African American: Acknowledges this group's contributions to STEM" type="vocab" text="African American: Acknowledges this group's contributions to STEM"/>
+			<outline vocab="African American: Addresses bias against this group" type="vocab" text="African American: Addresses bias against this group"/>
+			<outline vocab="African American: Identifies role models or mentors in STEM fields from this group" type="vocab" text="x"/>
+			<outline vocab="African American: Uses inclusive images of people from this group" type="vocab" text="x"/>
+			<outline vocab="Bilingual Students" type="vocab" text="Bilingual Students"/>
+			<outline vocab="College" type="vocab" text="College"/>
+			<outline vocab="Culturally Diverse classroom" type="vocab" text="Culturally Diverse classroom"/>
+			<outline vocab="Disabled Students" type="vocab" text="Disabled Students"/>
+			<outline vocab="Disabled learners" type="vocab" text="Disabled learners"/>
+			<outline vocab="Disabled students" type="vocab" text="Disabled students"/>
+			<outline vocab="Disabled Students" type="vocab" text="Disabled Students"/>
+			<outline vocab="ESL Students" type="vocab" text="ESL Students"/>
+			<outline vocab="Early College" type="vocab" text="Early College"/>
+			<outline vocab="Early Elem. (PreK-2)" type="vocab" text="Early Elem. (PreK-2)"/>
+			<outline vocab="Early Elementary" type="vocab" text="Early Elementary"/>
+			<outline vocab="Education Levels" type="vocab" text="Education Levels"/>
+			<outline vocab="Eighth Grade" type="vocab" text="Eighth Grade"/>
+			<outline vocab="Elementary" type="vocab" text="Elementary"/>
+			<outline vocab="Elementary School" type="vocab" text="Elementary School"/>
+			<outline vocab="Elementary / Middle School" type="vocab" text="Elementary / Middle School"/>
+			<outline vocab="Eleventh Grade" type="vocab" text="Eleventh Grade"/>
+			<outline vocab="Female Students" type="vocab" text="Female Students"/>
+			<outline vocab="Fifth Grade" type="vocab" text="Fifth Grade"/>
+			<outline vocab="First Grade" type="vocab" text="First Grade"/>
+			<outline vocab="First-Year College" type="vocab" text="First-Year College"/>
+			<outline vocab="First-Year Undergraduate / General" type="vocab" text="First-Year Undergraduate / General"/>
+			<outline vocab="Fourth Grade" type="vocab" text="Fourth Grade"/>
+			<outline vocab="Fourth-Year College" type="vocab" text="Fourth-Year College"/>
+			<outline vocab="Girls: Acknowledges this group's contributions to STEM" type="vocab" text="x"/>
+			<outline vocab="Girls: Addresses bias against this group" type="vocab" text="Girls: Addresses bias against this group"/>
+			<outline vocab="Girls: Explicity developed for this group" type="vocab" text="Girls: Explicity developed for this group"/>
+			<outline vocab="Girls: Highlights STEM opportunities for this group" type="vocab" text="x"/>
+			<outline vocab="Girls: Identifies role models or mentors in STEM fields from this group" type="vocab" text="x"/>
+			<outline vocab="Girls: Uses inclusive images of people from this group" type="vocab" text="x"/>
+			<outline vocab="Grade 1" type="vocab" text="Grade 1"/>
+			<outline vocab="Grade 10" type="vocab" text="Grade 10"/>
+			<outline vocab="Grade 11" type="vocab" text="Grade 11"/>
+			<outline vocab="Grade 12" type="vocab" text="Grade 12"/>
+			<outline vocab="Grade 2" type="vocab" text="Grade 2"/>
+			<outline vocab="Grade 3" type="vocab" text="Grade 3"/>
+			<outline vocab="Grade 4" type="vocab" text="Grade 4"/>
+			<outline vocab="Grade 5" type="vocab" text="Grade 5"/>
+			<outline vocab="Grade 6" type="vocab" text="Grade 6"/>
+			<outline vocab="Grade 7" type="vocab" text="Grade 7"/>
+			<outline vocab="Grade 8" type="vocab" text="Grade 8"/>
+			<outline vocab="Grade 9" type="vocab" text="Grade 9"/>
+			<outline vocab="Grades 1 - 3" type="vocab" text="Grades 1 - 3"/>
+			<outline vocab="Grades 1-3" type="vocab" text="Grades 1-3"/>
+			<outline vocab="Grades 10 -12" type="vocab" text="Grades 10 -12"/>
+			<outline vocab="Grades 10-12" type="vocab" text="Grades 10-12"/>
+			<outline vocab="Grades 2-5" type="vocab" text="Grades 2-5"/>
+			<outline vocab="Grades 3-12" type="vocab" text="Grades 3-12"/>
+			<outline vocab="Grades 3-5" type="vocab" text="Grades 3-5"/>
+			<outline vocab="Grades 3-8" type="vocab" text="Grades 3-8"/>
+			<outline vocab="Grades 4 - 6" type="vocab" text="Grades 4 - 6"/>
+			<outline vocab="Grades 4-10" type="vocab" text="Grades 4-10"/>
+			<outline vocab="Grades 4-12" type="vocab" text="Grades 4-12"/>
+			<outline vocab="Grades 4-6" type="vocab" text="Grades 4-6"/>
+			<outline vocab="Grades 4-8" type="vocab" text="Grades 4-8"/>
+			<outline vocab="Grades 5-12" type="vocab" text="Grades 5-12"/>
+			<outline vocab="Grades 5-8" type="vocab" text="Grades 5-8"/>
+			<outline vocab="Grades 6-12" type="vocab" text="Grades 6-12"/>
+			<outline vocab="Grades 6-8" type="vocab" text="Grades 6-8"/>
+			<outline vocab="Grades 6-9" type="vocab" text="Grades 6-9"/>
+			<outline vocab="Grades 7 - 9" type="vocab" text="Grades 7 - 9"/>
+			<outline vocab="Grades 7-10" type="vocab" text="Grades 7-10"/>
+			<outline vocab="Grades 7-12" type="vocab" text="Grades 7-12"/>
+			<outline vocab="Grades 7-9" type="vocab" text="Grades 7-9"/>
+			<outline vocab="Grades 8-12" type="vocab" text="Grades 8-12"/>
+			<outline vocab="Grades 9-12" type="vocab" text="Grades 9-12"/>
+			<outline vocab="Grades K-12" type="vocab" text="Grades K-12"/>
+			<outline vocab="Grades K-2" type="vocab" text="Grades K-2"/>
+			<outline vocab="Grades K-5" type="vocab" text="Grades K-5"/>
+			<outline vocab="Grades K-8" type="vocab" text="Grades K-8"/>
+			<outline vocab="Grades PK-1" type="vocab" text="Grades PK-1"/>
+			<outline vocab="Graduate" type="vocab" text="Graduate"/>
+			<outline vocab="Graduate students" type="vocab" text="Graduate students"/>
+			<outline vocab="Hearing-Impaired Students" type="vocab" text="Hearing-Impaired Students"/>
+			<outline vocab="High School" type="vocab" text="High School"/>
+			<outline vocab="High School (9-12)" type="vocab" text="High School (9-12)"/>
+			<outline vocab="High School / Introductory Chemistry" type="vocab" text="High School / Introductory Chemistry"/>
+			<outline vocab="Higher Education" type="vocab" text="Higher Education"/>
+			<outline vocab="Informal Education" type="vocab" text="Informal Education"/>
+			<outline vocab="Informal Learners" type="vocab" text="Informal Learners"/>
+			<outline vocab="Kindergarten" type="vocab" text="Kindergarten"/>
+			<outline vocab="Late College" type="vocab" text="Late College"/>
+			<outline vocab="Late Elem. (3-5)" type="vocab" text="Late Elem. (3-5)"/>
+			<outline vocab="Later Elementary" type="vocab" text="Later Elementary"/>
+			<outline vocab="Latino: Acknowledges this group's contributions to STEM" type="vocab" text="x"/>
+			<outline vocab="Latino: Addresses bias against this group" type="vocab" text="Latino: Addresses bias against this group"/>
+			<outline vocab="Latino: Explicity developed for this group" type="vocab" text="Latino: Explicity developed for this group"/>
+			<outline vocab="Latino: Identifies role models or mentors in STEM fields from this group" type="vocab" text="Latino: Identifies role models or mentors in STEM fields from this group"/>
+			<outline vocab="Latino: Uses inclusive images of people from this group" type="vocab" text="x"/>
+			<outline vocab="Learner" type="vocab" text="Learner"/>
+			<outline vocab="Learners" type="vocab" text="Learners"/>
+			<outline vocab="Learner/Student" type="vocab" text="Learner/Student"/>
+			<outline vocab="Learning Disabled" type="vocab" text="Learning Disabled"/>			
+			<outline vocab="Lifelong learners" type="vocab" text="Lifelong learners"/>
+			<outline vocab="Limited English proficiency" type="vocab" text="Limited English proficiency"/>
+			<outline vocab="Low literacy level" type="vocab" text="Low literacy level"/>
+			<outline vocab="Middle School" type="vocab" text="Middle School"/>
+			<outline vocab="Middle School (6-8)" type="vocab" text="Middle School (6-8)"/>
+			<outline vocab="Minority Students" type="vocab" text="Minority Students"/>
+			<outline vocab="Native American: Acknowledges this group's contributions to STEM" type="vocab" text="Native American: Acknowledges this group's contributions to STEM"/>
+			<outline vocab="Native American: Explicity developed for this group" type="vocab" text="x"/>
+			<outline vocab="Native American: Uses inclusive images of people from this group" type="vocab" text="Native American: Uses inclusive images of people from this group"/>
+			<outline vocab="Ninth Grade" type="vocab" text="Ninth Grade"/>
+			<outline vocab="Not Specified" type="vocab" text="Not Specified"/>
+			<outline vocab="Not specified" type="vocab" text="Not specified"/>
+			<outline vocab="pre-K" type="vocab" text="pre-K"/>
+			<outline vocab="Pre-Kindergarten" type="vocab" text="Pre-Kindergarten"/>
+			<outline vocab="Preschool" type="vocab" text="Preschool"/>
+			<outline vocab="Primary Education" type="vocab" text="Primary Education"/>
+			<outline vocab="Remedial Students" type="vocab" text="Remedial Students"/>
+			<outline vocab="Rural dweller" type="vocab" text="Rural dweller"/>
+			<outline vocab="Second Grade" type="vocab" text="Second Grade"/>
+			<outline vocab="Second-Year College" type="vocab" text="Second-Year College"/>
+			<outline vocab="Second-Year Undergraduate" type="vocab" text="Second-Year Undergraduate"/>
+			<outline vocab="Secondary Education" type="vocab" text="Secondary Education"/>
+			<outline vocab="Seventh Grade" type="vocab" text="Seventh Grade"/>
+			<outline vocab="Sixth Grade" type="vocab" text="Sixth Grade"/>
+			<outline vocab="Student" type="vocab" text="Student"/>
+			<outline vocab="Students" type="vocab" text="Students"/>
+			<outline vocab="student" type="vocab" text="student"/>
+			<outline vocab="students" type="vocab" text="students"/>
+			<outline vocab="Technical School First Cycle" type="vocab" text="Technical School First Cycle"/>
+			<outline vocab="Technical School Second Cycle" type="vocab" text="Technical School Second Cycle"/>
+			<outline vocab="Tenth Grade" type="vocab" text="Tenth Grade"/>
+			<outline vocab="Third Grade" type="vocab" text="Third Grade"/>
+			<outline vocab="Third-Year College" type="vocab" text="Third-Year College"/>
+			<outline vocab="Twelfth Grade" type="vocab" text="Twelfth Grade"/>
+			<outline vocab="Undergraduate" type="vocab" text="Undergraduate"/>
+			<outline vocab="Undergraduate students" type="vocab" text="Undergraduate students"/>
+			<outline vocab="University First Cycle" type="vocab" text="University First Cycle"/>
+			<outline vocab="University Postgrad" type="vocab" text="University Postgrad"/>
+			<outline vocab="University Second Cycle" type="vocab" text="University Second Cycle"/>
+			<outline vocab="Upper-Division Undergraduate" type="vocab" text="Upper-Division Undergraduate"/>
+			<outline vocab="Urban dweller/limited contact with nature" type="vocab" text="Urban dweller/limited contract with nature"/>
+			<outline vocab="Vision-Impaired Students" type="vocab" text="Vision-Impaired Students"/>
+			<outline vocab="Vocational Training" type="vocab" text="Vocational Training"/>
+		</outline>  <!-- end Learners -->
+		
+		<outline vocab="Parent/Guardian" type="group" text="Parent/Guardian" deftn="parents" attribution="nsdl_dc:NSDLAudience">
+			<outline vocab="Parents" type="vocab" text="Parents"/>
+			<outline vocab="Parent/Guardian" type="vocab" text="Parent/Guardian"/>
+		</outline>  <!-- end Parent/Guardian -->
+		
+		<outline vocab="Professional/Practitioner" type="group" text="Professional/Practitioner" deftn="librarians or other non-teaching  and non-research professionals" attribution="nsdl_dc:NSDLAudience">
+			<outline vocab="Librarian" type="vocab" text="Librarian"/>
+			<outline vocab="Librarians" type="vocab" text="Librarians"/>
+			<outline vocab="Practitioner" type="vocab" text="Practitioner"/>
+			<outline vocab="Professional" type="vocab" text="Professional"/>
+			<outline vocab="Professional Formation" type="vocab" text="Professional Formation"/>
+			<outline vocab="Professional/Practitioner" type="vocab" text="Professional/Practitioner"/>
+			<outline vocab="Vocational/Professional Development Education" type="vocab" text="Professional Formation"/>
+		</outline>  <!-- end Professional/Practitioner -->
+		
+		<outline vocab="Researcher" type="group" text="Researcher" deftn="non-teaching professionals engaged to research endeavors" attribution="nsdl_dc:NSDLAudience" >
+			<outline vocab="Graduate Education / Research" type="vocab" text="Graduate Education / Research"/>
+			<outline vocab="Research" type="vocab" text="Research"/>
+			<outline vocab="Researcher" type="vocab" text="Researcher"/>
+			<outline vocab="Researchers" type="vocab" text="Researchers"/>
+		</outline>  <!-- end Researcher -->
+					
+		<outline vocab="People with disabilities" type="group" text="People with disabilities">
+			<outline vocab="People with disabilities" type="vocab" text="People with disabilities"/>
+		</outline> 
+	</body>
+</opml>

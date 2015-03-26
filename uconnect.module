@@ -1,0 +1,306 @@
+<?php
+/**
+ * this module houses common functions
+ * it also stores commonly collected data so it doesn't always have to be gathered.
+ */
+ define('UCONNECT_SEARCH_BASE_URL', 'http://uc.dls.ucar.edu/search-api');
+
+function uconnect_init() {
+	// set base URL for ASN standards
+	variable_set('uconnect_asn_standard_base_url','http://asn.jesandco.org/resources/');
+	variable_set('uconnect_asn_standard_service_url','http://uc.dls.ucar.edu/asn/service.do?verb=ListStandards&id=');
+	
+	// url for search service
+	variable_set('uconnect_search_service_url','http://uc.dls.ucar.edu/search-api');
+	
+	// retrieve vocabulary hierarchies
+
+	// edlevel for data
+	$s_url = 'http://ns.nsdl.org/ncs/lar/1.00/groups/educationLevel-lar-groups-cataloger-en-us.xml';
+	variable_set('uconnect_edlevel_master', uconnect_cache_response_check($s_url, 'uconnect_edlevel_master'));
+
+	// edlevel for display
+	$s_url = 'http://ns.nsdl.org/ncs/ddsws/1-1/groupsNormal/edLevel-groups.xml';
+	variable_set('uconnect_edlevel_display_master', uconnect_cache_response_check($s_url, 'uconnect_edlevel_display_master'));
+
+	// restype for data
+	$s_url = 'http://ns.nsdl.org/ncs/lar/1.00/groups/typeResource-lar-groups-cataloger-en-us.xml';
+	variable_set('uconnect_restype_master', uconnect_cache_response_check($s_url, 'uconnect_restype_master'));
+
+	// restype for display
+	$s_url = 'http://ns.nsdl.org/ncs/ddsws/1-1/groupsNormal/nsdlType-groups.xml';
+	variable_set('uconnect_restype_display_master', uconnect_cache_response_check($s_url, 'uconnect_restype_display_master'));
+
+	// audience for display
+	$s_url = 'http://ns.nsdl.org/ncs/ddsws/1-1/groupsNormal/audience-groups.xml';
+	variable_set('uconnect_audience_display_master', uconnect_cache_response_check($s_url, 'uconnect_audience_display_master'));
+
+	//collection list
+	$s_url = 'http://uc.dls.ucar.edu/search-api?verb=Search&q=/key//collectionRecord/additionalMetadata/ncsCollectionRecord/metadata/record/collection/viewContexts/viewContext:%22UCARConnect%22+AND+xmlFormat:dlese_collect&s=0&n=1000&transform=localize';
+	variable_set('uconnect_collection_master', uconnect_cache_response_check($s_url, 'uconnect_collection_master'));
+	
+	// subjects for data
+	$s_url = 'http://ns.nsdl.org/ncs/lar/1.00/groups/subject-lar-groups-cataloger-en-us.xml';
+	$s_url = 'http://ns.nsdl.org/ncs/lar/1.00/schemas/vocabs/subject.xsd';
+	variable_set('uconnect_subject_master', uconnect_cache_response_check($s_url, 'uconnect_subject_master'));
+
+	// subject for display
+	$s_url = 'http://ns.nsdl.org/ncs/ddsws/1-1/groupsNormal/all-subject-groups.xml';
+	variable_set('uconnect_subject_display_master', uconnect_cache_response_check($s_url, 'uconnect_subject_display_master'));
+	
+	// partner subject for data
+	$s_url = 'http://ns.nsdl.org/ncs/lar/1.00/schemas/vocabs/subjectPartner-UCAR.xsd';
+	variable_set('uconnect_partner_subject_master', uconnect_cache_response_check($s_url, 'uconnect_partner_subject_master'));
+	
+	$a_ucar_collections = array(
+		'3111902',
+		'ncs-NSDL-COLLECTION-000-003-112-112'
+	);
+	variable_set('uconnect_collections_ucar_only',$a_ucar_collections);
+}
+
+// retrieve vocab
+function uconnect_retrieve_vocab($url,$cache_name) {
+	$results_obj = uconnect_http_request($url);
+	$a_data = array();
+
+// if no data then pull from local file
+
+	if (!isset($results_obj -> data)) {
+		$alternate_file = 'sources/';
+		switch($cache_name){
+			case 'uconnect_edlevel_master':
+				$alternate_file = 'sources\educationLevel-lar-groups-cataloger-en-us.xml';
+				break;		
+			case 'uconnect_edlevel_display_master':
+				$alternate_file = 'sources\edLevel-groups.xml';
+				break;				
+			case 'uconnect_restype_master':
+				$alternate_file = 'sources\typeResource-lar-groups-cataloger-en-us.xml';
+				break;			
+			case 'uconnect_restype_display_master':
+				$alternate_file = 'sources\nsdlType-groups.xml';
+				break;			
+			case 'uconnect_partner_subject_master':
+				$alternate_file = 'sources\subjectPartner-UCAR.xml';
+				break;	
+			case 'uconnect_subject_master':
+				$alternate_file = 'sources\subject-lar-groups-cataloger-en-us.xml';
+				break;
+			case 'uconnect_subject_display_master':
+				$alternate_file = 'sources\all-subject-groups.xml';
+				break;			
+			case 'uconnect_audience_display_master':
+				$alternate_file = 'sources\audience-groups.xml';
+				break;			
+			case 'uconnect_collection_master':
+				$alternate_file = 'sources\collections-viewContext-UCARConnect.xml';
+				break;		
+		}
+		$path = DRUPAL_ROOT.'/'.drupal_get_path('module', 'uconnect').'/'.$alternate_file;
+		$handle = fopen($path, "r");
+		$results_obj = fread($handle, filesize($path));
+		fclose($handle);
+		$xml = new SimpleXMLElement($results_obj);
+	} else {
+		$xml = new SimpleXMLElement($results_obj -> data);
+	}
+
+	if (isset($xml)) {
+
+		if (isset($xml -> body)) {
+			$a_data = uconnect_recursive_vocab($xml -> body);
+		}
+		else {
+			// check for namespaces
+			$ns = $xml->getNamespaces(true);
+			$xs_children = $xml->children($ns['xs']);
+			
+			if(isset($ns['xs']) && !empty($xs_children)){
+				foreach($xml->children($ns['xs'])->simpleType->restriction->enumeration as $xs_index=>$xs_value){
+					$a_data[(string)$xs_value->attributes()->value] = array(
+						'children' => array(),
+						'name' => (string)$xs_value->attributes()->value
+					);
+					
+				}
+			}
+			else {
+				// specifically for listCollections
+				foreach ($xml->Search->results->record as $index => $value) {
+					$a_data[] = array(
+						'children' => array(),
+						'id' => (string)$value -> head -> id,
+						'name' => (string)$value -> metadata -> collectionRecord -> general -> fullTitle ,
+						'xml_format' => (string)$value -> head -> additionalMetadata -> dlese_collect -> formatOfRecords
+					);
+				}
+			}
+		}
+
+	}
+
+	return $a_data;
+}
+
+// recursively get vocab terms
+function uconnect_recursive_vocab($array) {
+	$a_temp = array();
+
+	foreach ($array->outline as $index => $value) {
+		$a_temp[(string)$value -> attributes() -> vocab] = array(
+			'children' => array(),
+			'name' => (string)$value -> attributes() -> text
+		);
+
+		if (count($value -> outline) > 0) {
+
+			$a_temp[(string)$value -> attributes() -> vocab]['children'] = uconnect_recursive_vocab($value);
+
+		}
+	}
+
+	return $a_temp;
+}
+
+// perform queries
+// return result xml
+function uconnect_query_service($query) {
+	
+	$data = cache_get($query);
+
+	if ($data) {
+		$data = $data->data;
+	}
+	else {
+		// retrieve response
+		$data = uconnect_http_request($query);
+		if($data->code == 200){
+			cache_set($query, $data, 'cache', time() + 360);
+		}
+		else {
+			$data = false;
+		}
+	}
+
+	return $data;
+}
+
+// perform drupal http request
+function uconnect_http_request($url) {
+	return drupal_http_request($url);
+}
+
+// check for cache
+function uconnect_cache_response_check($url, $cache_name) {
+	$data = cache_get($cache_name);
+
+	if ($data) {
+		$data = $data -> data;
+	}
+	else {
+		// retrieve response
+		$data = uconnect_retrieve_vocab($url,$cache_name);
+		
+		// sort collections alphabetically
+		if($cache_name == 'uconnect_collection_master'){
+			foreach ($data as $key => $row) {
+			    $name[$key]  = $row['name'];
+			}
+			array_multisort($name, SORT_ASC, SORT_STRING, $data);
+
+		}
+		cache_set($cache_name, $data, 'cache', time() + 360);
+	}
+	return $data;
+}
+// resolve text of standard
+function uconnect_asn_standard_resolve_text($xml,&$a_stds,$first_in=false,$first_id=false){
+	$a_new_stds = array();
+	if(isset($xml->StatementNotation)){
+			$line_text = normalize_line_text((string)$xml->StatementNotation.' '.(string)$xml->Text);
+		} else {
+			$line_text = normalize_line_text((string)$xml->Text);
+		}
+		if($first_in == true){
+			$first_id = (string)$xml->Identifier;
+		}
+		
+		if(isset($xml->Parent->Standard)){
+			if(empty($a_stds)){
+				$a_new_stds[htmlentities(uconnect_asn_standard_process_grade($xml))][$line_text] = $a_stds;
+			} else {
+				$a_new_stds[$line_text] = $a_stds;
+			}
+			uconnect_asn_standard_resolve_text($xml->Parent->Standard,$a_new_stds,false,$first_id);
+		} else {
+			$a_new_stds[$line_text] = $a_stds;
+		}
+		
+		
+		$a_stds = $a_new_stds;
+}
+
+function uconnect_asn_standard_process_grade($xml){
+		$start = (string)$xml->StartGradeLevel;
+		
+		$end = (string)$xml->EndGradeLevel;
+		$text = uconnect_asn_standard_normalize_grades($start,$end);
+		
+		return $text;
+	}
+function uconnect_asn_standard_normalize_grades($start,$end){
+		if($start == '0'){
+			$start = 'K';	
+		} else if($start == '-1'){
+			$start = 'Pre-K';	
+		}
+				
+				
+		if($end == '0'){
+			$end = 'K';	
+		} else if($end == '-1'){
+			$end = 'Pre-K';	
+		}
+				
+		if($end== $start){
+			$gradeRange = 'Grade '.$start;
+		} else {
+			$gradeRange = 'Grades '.$start.'-'.$end;
+		}
+		return $gradeRange;
+	} 
+
+	function normalize_line_text($line_text){
+		if(preg_match("/^[0-9]{1,2}[A-Z]{1}\s\(.{3,5}\)\s\#.{1,9}/", $line_text)){
+				// this is SMS, so normalize it
+				$temp = explode(' ',$line_text);
+				
+				$new = $temp[0].'/';
+				$grd = str_replace(')','',str_replace('(','',$temp[1]));
+				$stmt = str_replace('#','',$temp[2]);
+				switch($grd){					
+					case 'K-2':
+						$new .= 'P'.$stmt;
+						break;
+					
+					case '3-5':
+						$new .= 'E'.$stmt;
+						break;
+					case '6-8':
+						$new .= 'M'.$stmt;
+						break;
+					
+					case '9-12':
+						$new .= 'H'.$stmt;
+						break;
+				}
+				//remove these items and appended new
+				array_shift($temp);
+				array_shift($temp);
+				array_shift($temp);
+				$line_text = $new.' '.implode(' ',array_map('htmlspecialchars',$temp));
+			}
+		return $line_text;
+		
+	}

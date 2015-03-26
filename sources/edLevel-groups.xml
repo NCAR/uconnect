@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--$Id: edLevel-groups.xml,v 1.2 2010/11/19 21:54:21 ginger Exp $-->
+<opml xmlns="http://ns.nsdl.org/ncs/fields" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ns.nsdl.org/ncs/fields http://ns.nsdl.org/ncs/ncs_item/1.02/schemas/fields/non-vocab-fields.xsd"
+version="2.0">
+	<head>
+		<title>Educational Level</title>
+		<concept language="en-us" metaFormat="ncs_item" metaVersion="1.02" text="Educational Level" audience="search" path="/nsdl_dc:nsdl_dc/dct:educationLevel" deftn="an appropriate learning level or range, for training or formal or informal education, associated with a resource"/>
+	</head>
+	<body>
+		<outline type="group" vocab="Pre-Kindergarten" text="Pre-Kindergarten" deftn="learners from birth to entrance in kindergarten" attribution="nsdl_dc:NSDLEdLevel">
+			<outline vocab="Grades PK-1" type="vocab" text="Grades PK-1"/>
+			<outline vocab="Grades PreK to 12" type="vocab" text="Grades PreK to 12"/>
+			<outline vocab="pre-K" type="vocab" text="pre-K"/>
+			<outline vocab="Pre-Kindergarten" type="vocab" text="Pre-Kindergarten"/>
+			<outline vocab="PreK-12" type="vocab" text="PreK-12"/>
+			<outline vocab="Preschool" type="vocab" text="Preschool"/>
+			<outline vocab="Preschool Children" type="vocab" text="Preschool Children"/>
+			<outline vocab="4-6 year olds" type="vocab" text="4-6 year olds"/>
+		</outline>
+		<!--end Pre-Kindergarten-->
+		
+		<outline type="group" vocab="Elementary School" text="Elementary School" deftn="learners in kindergarten through grade 5" attribution="nsdl_dc:NSDLEdLevel" >
+			<outline vocab="Elementary School" type="vocab" text="Elementary School"/> 
+			<outline vocab="elementary education" type="vocab" text="elementary education"/> 
+			<outline type="group" vocab="Early Elementary" text="Early Elementary" deftn="learners in kindergarten through grade 2" attribution="nsdl_dc:NSDLEdLevel">
+				<outline vocab="&lt;span class='vocabprefix'&gt;Elementary School :&lt;/span&gt;Early Elementary" type="vocab" text="Elementary School :Early Elementary"/>
+				<outline vocab="elementary" type="vocab" text="elementary"/>
+				<outline vocab="Elementary" type="vocab" text="Elementary"/>
+				<outline vocab="Elementary / Middle School" type="vocab" text="Elementary / Middle School"/>
+				<outline vocab="Elementary / Middle School Science" type="vocab" text="Elementary / Middle School Science"/>
+				<outline vocab="Elementary" type="vocab" text="Elementary"/>
+				<outline vocab="Elementary Education" type="vocab" text="Elementary Education"/>
+				<outline vocab="Elementary Secondary Education" type="vocab" text="Elementary Secondary Education"/>
+				<outline vocab="Elementary School :Early Elementary" type="vocab" text="Elementary School :Early Elementary"/>
+				<outline vocab="Early Elementary" type="vocab" text="Early Elementary"/>
+				<outline vocab="Early Elem. (PreK-2)" type="vocab" text="Early Elem. (PreK-2)"/>
+				<outline vocab="Grades 1 - 3" type="vocab" text="Grades 1 - 3"/>
+				<outline vocab="Grades 1-3" type="vocab" text="Grades 1-3"/>
+				<outline vocab="Grades K-2" type="vocab" text="Grades K-2"/>
+				<outline vocab="Grades K-12" type="vocab" text="Grades K-12"/>
+				<outline vocab="Grades K-5" type="vocab" text="Grades K-5"/>
+				<outline vocab="Grades K-8" type="vocab" text="Grades K-8"/>
+				<outline vocab="Grades PreK to 12" type="vocab" text="Grades PreK to 12"/>
+				<outline vocab="K-4" type="vocab" text="K-4"/>
+				<outline vocab="K - 12" type="vocab" text="K - 12"/>
+				<outline vocab="K-12" type="vocab" text="K-12"/>
+				<outline vocab="PreK-12" type="vocab" text="PreK-12"/>
+				<outline vocab="primary-school" type="vocab" text="primary-school"/>
+				<outline vocab="primary grades" type="vocab" text="primary grades"/>
+				<outline vocab="Primary Education" type="vocab" text="Primary Education"/>
+				<outline vocab="Primary (K-2)" type="vocab" text="Primary (K-2)"/>			
+				<outline vocab="Primary school" type="vocab" text="Primary school"/> <!-- has 69 returns-->
+				<outline vocab="Primary elementary K-2" type="vocab" text="Primary elementary K-2"/> <!--has 17 returns-->
+				<outline vocab="6-8 year olds" type="vocab" text="6-8 year olds"/>
+				<outline type="group" vocab="Kindergarten" text="Kindergarten" deftn="learners in kindergarten" attribution="nsdl_dc:NSDLEdLevel">
+					<outline vocab="Kindergarten" type="vocab" text="Kindergarten"/>
+				</outline>
+				<outline type="group" vocab="Grade 1" text="Grade 1" deftn="learners in grade 1" attribution="nsdl_dc:NSDLEdLevel">
+					<outline vocab="First grade" type="vocab" text="First grade"/>
+					<outline vocab="First Grade" type="vocab" text="First Grade"/>
+					<outline vocab="Grade 1" type="vocab" text="Grade 1"/>
+				</outline>
+				<outline type="group" vocab="Grade 2" text="Grade 2" deftn="learners in grade 2" attribution="nsdl_dc:NSDLEdLevel">
+					<outline vocab="Grade 2" type="vocab" text="Grade 2"/>				
+					<outline vocab="Second grade" type="vocab" text="Second grade"/>
+					<outline vocab="Second Grade" type="vocab" text="Second Grade"/>
+				</outline>
+			</outline>
+			<!--end Early Elementary-->
+			
+			<outline type="group" vocab="Upper Elementary" text="Upper Elementary" deftn="learners in grades 3 through 5" attribution="nsdl_dc:NSDLEdLevel">
+				<outline vocab="&lt;span class='vocabprefix'&gt;&lt;/span&gt;Upper Elementary" type="vocab" text="Upper Elementary"/>
+				<outline vocab="&lt;span class='vocabprefix'&gt;Elementary School :&lt;/span&gt;Upper Elementary" type="vocab" text="Elementary School :Upper Elementary"/>
+				<outline vocab="elementary" type="vocab" text="elementary"/>
+				<outline vocab="Elementary School :Upper Elementary" type="vocab" text="Elementary School :Upper Elementary"/>
+				<outline vocab="Elementary" type="vocab" text="Elementary"/>
+				<outline vocab="Elementary Education" type="vocab" text="Elementary Education"/>
+				<outline vocab="Elementary / Middle School" type="vocab" text="Elementary / Middle School"/>
+				<outline vocab="Elementary Secondary Education" type="vocab" text="Elementary Secondary Education"/>
+				<outline vocab="Grades 2-5" type="vocab" text="Grades 2-5"/>
+				<outline vocab="Grades 3-5" type="vocab" text="Grades 3-5"/>
+				<outline vocab="Grades 4 - 6" type="vocab" text="Grades 4 - 6"/>
+				<outline vocab="Grades 4-6" type="vocab" text="Grades 4-6"/>
+				<outline vocab="Grades 3-12" type="vocab" text="Grades 3-12"/>
+				<outline vocab="Grades 3-8" type="vocab" text="Grades 3-8"/>
+				<outline vocab="Grades 4-10" type="vocab" text="Grades 4-10"/>
+				<outline vocab="Grades 4-12" type="vocab" text="Grades 4-12"/>
+				<outline vocab="Grades 4-8" type="vocab" text="Grades 4-8"/>
+				<outline vocab="Grades K-12" type="vocab" text="Grades K-12"/>
+				<outline vocab="Grades K-5" type="vocab" text="Grades K-5"/>
+				<outline vocab="Grades K-8" type="vocab" text="Grades K-8"/>
+				<outline vocab="Grades PreK to 12" type="vocab" text="Grades PreK to 12"/>
+				<outline vocab="Intermediate (3-5)" type="vocab" text="Intermediate (3-5)"/>
+				<outline vocab="Intermediate elementary 3-5" type="vocab" text="Intermediate elementary"/>
+				<outline vocab="Intermediate school" type="vocab" text="Intermediate school"/>
+				<outline vocab="K - 12" type="vocab" text="K - 12"/>
+				<outline vocab="K-12" type="vocab" text="K-12"/>
+				<outline vocab="Late Elem. (3-5)" type="vocab" text="Late Elem. (3-5)"/>
+				<outline vocab="Later Elementary" type="vocab" text="Later Elementary"/>
+				<outline vocab="Middle school, intermediate school" type="vocab" text="Middle school, intermediate school"/>
+				<outline vocab="PreK-12" type="vocab" text="PreK-12"/>
+				<outline vocab="8-11 year olds" type="vocab" text="8-11 year olds"/>
+				<outline vocab="5-8" type="vocab" text="5-8"/>
+				<outline vocab="Upper Elementary" type="vocab" text="Upper Elementary"/>
+				<outline type="group" vocab="Grade 3" text="Grade 3" deftn="learners in grade 3" attribution="nsdl_dc:NSDLEdLevel">
+					<outline vocab="Grade 3" type="vocab" text="Grade 3"/>
+					<outline vocab="Third Grade" type="vocab" text="Third Grade"/>
+					<outline vocab="Third grade" type="vocab" text="Third grade"/>
+				</outline>
+				<outline type="group" vocab="Grade 4" text="Grade 4" deftn="learners in grade 4" attribution="nsdl_dc:NSDLEdLevel">
+					<outline vocab="Fourth Grade" type="vocab" text="Fourth Grade"/>
+					<outline vocab="Fourth grade" type="vocab" text="Fourth grade"/>
+					<outline vocab="Grade 4" type="vocab" text="Grade 4"/>
+				</outline>
+				<outline type="group" vocab="Grade 5" text="Grade 5" deftn="learners in grade 5" attribution="nsdl_dc:NSDLEdLevel">
+					<outline vocab="Fifth Grade" type="vocab" text="Fifth Grade"/>	
+					<outline vocab="Fifth grade" type="vocab" text="Fifth grade"/>
+					<outline vocab="Grade 5" type="vocab" text="Grade 5"/>
+				</outline>
+			</outline>
+			<!-- end Upper Elementary -->
+		</outline>	
+		<!-- end Elementary School -->
+		
+		<outline type="group" vocab="Middle School" text="Middle School" deftn="learners in grades 6 through 8" attribution="nsdl_dc:NSDLEdLevel">
+			<outline vocab="Elementary / Middle School" type="vocab" text="Elementary / Middle School"/>
+			<outline vocab="Elementary / Middle School Science" type="vocab" text="Elementary / Middle School Science"/>
+			<outline vocab="Grades 6-8" type="vocab" text="Grades 6-8"/>
+			<outline vocab="Grades 6-9" type="vocab" text="Grades 6-9"/>
+			<outline vocab="Grades 7 - 9" type="vocab" text="Grades 7 - 9"/>
+			<outline vocab="Grades 7-9" type="vocab" text="Grades 7-9"/>
+			<outline vocab="Grades 5-8" type="vocab" text="Grades 5-8"/>
+			<outline vocab="Grades 7-10" type="vocab" text="Grades 7-10"/>
+			<outline vocab="Grades 6-12" type="vocab" text="Grades 6-12"/>
+			<outline vocab="Grades 5-12" type="vocab" text="Grades 5-12"/>
+			<outline vocab="Grades 3-12" type="vocab" text="Grades 3-12"/>
+			<outline vocab="Grades 3-8" type="vocab" text="Grades 3-8"/>
+			<outline vocab="Grades 4-10" type="vocab" text="Grades 4-10"/>
+			<outline vocab="Grades 4-12" type="vocab" text="Grades 4-12"/>
+			<outline vocab="Grades 4-8" type="vocab" text="Grades 4-8"/>
+			<outline vocab="Grades K-12" type="vocab" text="Grades K-12"/>
+			<outline vocab="Grades K-8" type="vocab" text="Grades K-8"/>
+			<outline vocab="Grades PreK to 12" type="vocab" text="Grades PreK to 12"/>
+			<outline vocab="High school, Middle school, Science Fair projects" type="vocab" text="High school, Middle school, Science Fair projects"/>
+			<outline vocab="K - 12" type="vocab" text="K - 12"/>
+			<outline vocab="K-12" type="vocab" text="K-12"/>
+			<outline vocab="middle level education" type="vocab" text="middle level education"/>
+			<outline vocab="middle level schools" type="vocab" text="middle level schools"/>
+			<outline vocab="middle school" type="vocab" text="middle school"/>
+			<outline vocab="middle grades" type="vocab" text="middle grades"/>
+			<outline vocab="middle grades education" type="vocab" text="middle grades education"/>
+			<outline vocab="middle grades schools" type="vocab" text="middle grades schools"/>
+			<outline vocab="Middle School Students" type="vocab" text="Middle School Students"/>
+			<outline vocab="Middle Schools" type="vocab" text="Middle Schools"/>
+			<outline vocab="Middle school" type="vocab" text="Middle school"/>
+			<outline vocab="Middle School" type="vocab" text="Middle School"/>
+			<outline vocab="Middle school 5-8" type="vocab" text="Middle school 5-8"/>
+			<outline vocab="Middle school 6-8" type="vocab" text="Middle school 6-8"/>
+			<outline vocab="Middle school education" type="vocab" text="Middle school education"/>
+			<outline vocab="Middle School (6-8)" type="vocab" text="Middle School (6-8)"/>
+			<outline vocab="Middle school, intermediate school" type="vocab" text="Middle school, intermediate school"/>
+			<outline vocab="Middle school, junior high school" type="vocab" text="Middle school, junior high school"/>
+			<outline vocab="Middle (6-8)" type="vocab" text="Middle (6-8)"/>
+			<outline vocab="middle school students" type="vocab" text="middle school students"/>
+			<outline vocab="PreK-12" type="vocab" text="PreK-12"/>
+			<outline vocab="11-14 year olds" type="vocab" text="11-14 year olds"/>
+			<outline vocab="12 year old" type="vocab" text="12 year old"/>
+			<outline vocab="5-8" type="vocab" text="5-8"/>
+			<outline vocab="5-8" type="vocab" text="5-8"/>
+			<outline type="group" vocab="Grade 6" text="Grade 6" deftn="learners in grade 6" attribution="nsdl_dc:NSDLEdLevel">
+				<outline vocab="Grade 6" type="vocab" text="Grade 6"/>
+				<outline vocab="Sixth grade" type="vocab" text="Sixth grade"/>
+				<outline vocab="Sixth Grade" type="vocab" text="Sixth Grade"/>
+			</outline>
+			<outline type="group" vocab="Grade 7" text="Grade 7" deftn="learners in grade 7" attribution="nsdl_dc:NSDLEdLevel">
+				<outline vocab="Grade 7" type="vocab" text="Grade 7"/>
+				<outline vocab="Seventh grade" type="vocab" text="Seventh grade"/>
+				<outline vocab="Seventh Grade" type="vocab" text="Seventh Grade"/>
+			</outline>
+			<outline type="group" vocab="Grade 8" text="Grade 8" deftn="learners in grade 8" attribution="nsdl_dc:NSDLEdLevel">
+				<outline vocab="Grade 8" type="vocab" text="Grade 8"/>
+				<outline vocab="Eighth Grade" type="vocab" text="Eighth Grade"/>
+				<outline vocab="Eighth grade" type="vocab" text="Eighth grade"/>
+			</outline>
+		</outline>
+		<!-- end Middle School -->
+		
+		<outline type="group" vocab="High School" text="High School" deftn="learners in grades 9 through 12" attribution="nsdl_dc:NSDLEdLevel">
+			<outline vocab="Advanced placement Students" type="vocab" text="Advanced placement Students"/>
+			<outline vocab="Elementary Secondary Education" type="vocab" text="Elementary Secondary Education"/>
+			<outline vocab="Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional" type="vocab" text="Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional"/>			
+			<outline vocab="Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior" type="vocab" text="Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior"/>
+			<outline vocab="Grade_9 Grade_10 Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional" type="vocab" text="Grade_9 Grade_10 Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional"/>
+			<outline vocab="Grades 7-12" type="vocab" text="Grades 7-12"/>
+			<outline vocab="Grades 8-12" type="vocab" text="Grades 8-12"/>
+			<outline vocab="Grades 9-12" type="vocab" text="Grades 9-12"/>
+			<outline vocab="Grades 10 -12" type="vocab" text="Grades 10 -12"/>
+			<outline vocab="Grades 10-12" type="vocab" text="Grades 10-12"/>
+			<outline vocab="Grades 7-10" type="vocab" text="Grades 7-10"/>
+			<outline vocab="Grades 6-12" type="vocab" text="Grades 5-12"/>
+			<outline vocab="Grades 5-12" type="vocab" text="Grades 5-12"/>
+			<outline vocab="Grades 3-12" type="vocab" text="Grades 3-12"/>
+			<outline vocab="Grades 4-10" type="vocab" text="Grades 4-10"/>
+			<outline vocab="Grades 4-12" type="vocab" text="Grades 4-12"/>
+			<outline vocab="Grades K-12" type="vocab" text="Grades K-12"/>
+			<outline vocab="Grades PreK to 12" type="vocab" text="Grades PreK to 12"/>
+			<outline vocab="high school education" type="vocab" text="high school education"/>
+			<outline vocab="highschool" type="vocab" text="highschool"/>
+			<outline vocab="high school" type="vocab" text="high school"/>
+			<outline vocab="High school" type="vocab" text="High school"/>
+			<outline vocab="High School" type="vocab" text="High School"/>
+			<outline vocab="High Schools" type="vocab" text="High Schools"/>
+			<outline vocab="High School (9-12)" type="vocab" text="High School (9-12)"/>
+			<outline vocab="High school lower division 9-10" type="vocab" text="High school lower division 9-10"/>
+			<outline vocab="High school students" type="vocab" text="High school students"/>
+			<outline vocab="High School Students" type="vocab" text="High School Students"/>
+			<outline vocab="High school upper division 11-12" type="vocab" text="High school upper division 11-12"/>
+			<outline vocab="High school lower division 9-10" type="vocab" text="High school lower division 9-10"/>
+			<outline vocab="High school upper division 11-12" type="vocab" text="High school upper division 11-12"/>
+			<outline vocab="High School / Introductory Chemistry" type="vocab" text="High School / Introductory Chemistry"/>
+			<outline vocab="High school; Undergraduate lower division" type="vocab" text="High school; Undergraduate lower division"/>
+			<outline vocab="K - 12" type="vocab" text="K - 12"/>
+			<outline vocab="K-12" type="vocab" text="K-12"/>
+			<outline vocab="PreK-12" type="vocab" text="PreK-12"/>
+			<outline vocab="Secondary" type="vocab" text="Secondary"/>
+			<outline vocab="secondary school" type="vocab" text="secondary school"/>
+			<outline vocab="secondary-school" type="vocab" text="secondary-school"/>
+			<outline vocab="Secondary School Science" type="vocab" text="Secondary School Science"/><!--has 52 returns-->
+			<outline vocab="Secondary Education" type="vocab" text="Secondary Education"/>
+			<outline vocab="Secondary School Students" type="vocab" text="Secondary School Students"/>
+			<outline vocab="14-18 year olds" type="vocab" text="14-18 year olds"/>
+			<outline vocab="9-12" type="vocab" text="19-12"/>
+			<outline type="group" vocab="Grade 9" text="Grade 9" deftn="learners in grade 9" attribution="nsdl_dc:NSDLEdLevel">
+				<outline vocab="Grade 9" type="vocab" text="Grade 9"/>	
+				<outline vocab="Ninth Grade" type="vocab" text="Ninth Grade"/>
+			</outline>
+			<outline type="group" vocab="Grade 10" text="Grade 10" deftn="learners in grade 10" attribution="nsdl_dc:NSDLEdLevel">
+				<outline vocab="Grade 10" type="vocab" text="Grade 10"/>
+				<outline vocab="Tenth Grade" type="vocab" text="Tenth Grade"/>
+			</outline>
+			<outline type="group" vocab="Grade 11" text="Grade 11" deftn="learners in grade 11" attribution="nsdl_dc:NSDLEdLevel">
+				<outline vocab="Eleventh Grade" type="vocab" text="Eleventh Grade"/>
+				<outline vocab="Grade 11" type="vocab" text="Grade 11"/>
+			</outline>
+			<outline type="group" vocab="Grade 12" text="Grade 12" deftn="learners in grade 12" attribution="nsdl_dc:NSDLEdLevel">
+				<outline vocab="Grade 12" type="vocab" text="Grade 12"/>
+				<outline vocab="Twelfth Grade" type="vocab" text="Twelfth Grade"/>
+			</outline>
+		</outline>
+		<!-- end High School -->
+		
+		<outline type="group" vocab="Higher Education" text="Higher Education" deftn="learners pursuing a degree or certificate" attribution="nsdl_dc:NSDLEdLevel">
+			<outline vocab="Preservice Teacher Education" type="vocab" text="Preservice Teacher Education"/><!--has 17 returns-->
+			<outline vocab="Higher Education" type="vocab" text="Higher Education"/> 
+			<outline vocab="higher education" type="vocab" text="higher education"/> 
+			<outline vocab="higher-education" type="vocab" text="higher-education"/> 
+			<outline vocab="Higer Education" type="vocab" text="Higer Education"/> 
+			<outline vocab="Postsecondary" type="vocab" text="Postsecondary"/>
+			<outline type="group" vocab="Undergraduate (Lower Division)" text="Undergraduate (Lower Division)" deftn="learners in lower-level introductory coursework in an undergraduate college or university program" attribution="nsdl_dc:NSDLEdLevel">
+				<outline vocab="&lt;span class='vocabprefix'&gt;&lt;/span&gt;Undergraduate (Lower Division)" type="vocab" text="Undergraduate (Lower Division)"/>
+				<outline vocab="&lt;span class='vocabprefix'&gt;Higher Education :&lt;/span&gt;Undergraduate (Lower Division)" type="vocab" text="Higher Education :Undergraduate (Lower Division)"/>
+				<outline vocab="college" type="vocab" text="college"/>
+				<outline vocab="College" type="vocab" text="College"/>
+				<outline vocab="college boys" type="vocab" text="college boys"/>
+				<outline vocab="college girls" type="vocab" text="college girls"/>
+				<outline vocab="college women" type="vocab" text="college women"/>
+				<outline vocab="College Students" type="vocab" text="College Students"/>		
+				<outline vocab="College (13 - 14)" type="vocab" text="College (13 - 14)"/>
+				<outline vocab="Early College" type="vocab" text="Early College"/>
+				<outline vocab="Grade_9 Grade_10 Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional" type="vocab" text="Grade_9 Grade_10 Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional"/>
+				<outline vocab="Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional" type="vocab" text="Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional"/>
+				<outline vocab="High school; Undergraduate lower division" type="vocab" text="High school; Undergraduate lower division"/>
+				<outline vocab="Higher Education :Undergraduate (Lower Division)" type="vocab" text="Higher Education :Undergraduate (Lower Division)"/>
+				<outline vocab="Two Year College Students" type="vocab" text="Two Year College Students"/>
+				<outline vocab="Undergrad lower div 13-14" type="vocab" text="Undergrad lower div 13-14"/>
+				<outline vocab="Undergraduate Students" type="vocab" text="Undergraduate Students"/>
+				<outline vocab="Undergraduate lower division 13-14" type="vocab" text="Undergraduate lower division 13-14"/>
+				<outline vocab="Undergraduate Women" type="vocab" text="Undergraduate Women"/>	
+				<outline vocab="Undergraduate_Freshman Undergraduate_Sophomore" type="vocab" text="Undergraduate_Freshman Undergraduate_Sophomore"/>
+				<outline vocab="Undergraduate (Lower Division)" type="vocab" text="Undergraduate (Lower Division)"/>
+				<outline vocab="Undergraduate lower division" type="vocab" text="Undergraduate lower division"/>
+				<outline vocab="Undergraduate" type="vocab" text="Undergraduate"/>
+				<outline vocab="Undergraduate students" type="vocab" text="Undergraduate students"/>
+				<outline vocab="University First Cycle" type="vocab" text="University First Cycle"/>
+
+				<outline type="group" vocab="Grade 13" text="Grade 13" deftn="learners in grade 13" attribution="nsdl_dc:NSDLEdLevel">
+					<outline vocab="college freshmen" type="vocab" text="college freshmen"/>
+					<outline vocab="College Freshmen" type="vocab" text="College Freshmen"/>
+					<outline vocab="First-Year College" type="vocab" text="First-Year College"/>
+					<outline vocab="First-Year Undergraduate / General" type="vocab" text="First-Year Undergraduate / General"/>
+					<outline vocab="Grade 13" type="vocab" text="Grade 13"/>
+				</outline>
+
+				<outline type="group" vocab="Grade 14" text="Grade 14" deftn="learners in grade 14" attribution="nsdl_dc:NSDLEdLevel">
+					<outline vocab="Grade 14" type="vocab" text="Grade 14"/>
+					<outline vocab="Second-Year College" type="vocab" text="Second-Year College"/>
+					<outline vocab="Second-Year Undergraduate" type="vocab" text="Second-Year Undergraduate"/>
+				</outline>	
+			</outline>
+			<!-- end Undergraduate (Lower) -->
+			<outline type="group" vocab="Undergraduate (Upper Division)" text="Undergraduate (Upper Division)" deftn="learners in advanced coursework in an undergraduate college or university program" attribution="nsdl_dc:NSDLEdLevel">
+				<outline vocab="&lt;span class='vocabprefix'&gt;&lt;/span&gt;Undergraduate (Upper Division)" type="vocab" text="Undergraduate (Upper Division)"/>
+				<outline vocab="&lt;span class='vocabprefix'&gt;Higher Education :&lt;/span&gt;Undergraduate (Upper Division)" type="vocab" text="Higher Education :Undergraduate (Upper Division)"/>
+				<outline vocab="college" type="vocab" text="college"/>
+				<outline vocab="college boys" type="vocab" text="college boys"/>
+				<outline vocab="college girls" type="vocab" text="college girls"/>
+				<outline vocab="college women" type="vocab" text="college women"/>
+				<outline vocab="College" type="vocab" text="College"/>
+				<outline vocab="College Students" type="vocab" text="College Students"/>
+				<outline vocab="College (15 - 16)" type="vocab" text="College (15 - 16)"/>
+				<outline vocab="Grade_9 Grade_10 Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional" type="vocab" text="Grade_9 Grade_10 Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional"/>
+				<outline vocab="Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional" type="vocab" text="Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional"/>
+				<outline vocab="Higher Education :Undergraduate (Upper Division)" type="vocab" text="Higher Education :Undergraduate (Upper Division)"/>
+				<outline vocab="Late College" type="vocab" text="Late College"/>
+				<outline vocab="Student Teachers" type="vocab" text="Student Teachers"/>
+				<outline vocab="Undergraduate upper division" type="vocab" text="Undergraduate upper division"/>
+				<outline vocab="Undergradute upper division" type="vocab" text="Undergradute upper division"/>
+				<outline vocab="Undergraduate upper division 15-16" type="vocab" text="Undergraduate upper division 15-16"/>
+				<outline vocab="Undergraduate upper div 15-16" type="vocab" text="Undergraduate upper div 15-16"/>
+				<outline vocab="Undergraduate (Higher Division)" type="vocab" text="Undergraduate (Higher Division)"/>
+				<outline vocab="Undergraduate (Upper Division)" type="vocab" text="Undergraduate (Upper Division)"/>
+				<outline vocab="Undergraduate_Junior Undergraduate_Senior" type="vocab" text="Undergraduate_Junior Undergraduate_Senior"/>
+				<outline vocab="Undergraduate Women" type="vocab" text="Undergraduate Women"/>
+				<outline vocab="University Second Cycle" type="vocab" text="University Second Cycle"/>
+				<outline vocab="Upper-Division Undergraduate" type="vocab" text="Upper-Division Undergraduate"/>
+				<outline type="group" vocab="Grade 15" text="Grade 15" deftn="learners in grade 15" attribution="nsdl_dc:NSDLEdLevel">
+					<outline vocab="Grade 15" type="vocab" text="Grade 15"/>
+					<outline vocab="Third-Year College" type="vocab" text="Third-Year College"/>
+				</outline>
+				<outline type="group" vocab="Grade 16" text="Grade 16" deftn="learners in grade 16" attribution="nsdl_dc:NSDLEdLevel">
+					<outline vocab="Fourth-Year College" type="vocab" text="Fourth-Year College"/>
+					<outline vocab="Grade 16" type="vocab" text="Grade 16"/>
+				</outline>
+			</outline>
+			<!-- end Undergraduate (Upper) -->
+			<outline type="group"  vocab="Technical Education (Lower Division)" text="Technical Education (Lower Division)" deftn="learners in lower-level or introductory courses in a technical/vocational program" attribution="nsdl_dc:NSDLEdLevel">
+				<outline vocab="Education and Training Resources -- Texts, Manuals, Other Media -- Safety and Health" type="vocab" text="Education and Training Resources -- Texts, Manuals, Other Media -- Safety and Health"/>
+				<outline vocab="Education and Training Resources -- Texts, Manuals, Other Media -- Automotive technology" type="vocab" text="Education and Training Resources -- Texts, Manuals, Other Media -- Automotive technology"/>
+				<outline vocab="Grade_9 Grade_10 Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional" type="vocab" text="Grade_9 Grade_10 Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional"/>
+				<outline vocab="Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional" type="vocab" text="Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional"/>
+				<outline vocab="Technical Education" type="vocab" text="Technical Education"/>
+				<outline vocab="Technical Education (Lower Division)" type="vocab" text="Technical Education (Lower Division)"/>
+				<outline vocab="Technical School First Cycle" type="vocab" text="Technical School First Cycle"/>
+			</outline>
+			<!-- end Technical Education (Lower Division) -->
+			
+			<outline type="group" text="Technical Education (Upper Division)" vocab="Technical Education (Upper Division)" deftn=" a resource is appropriate for learners " attribution="nsdl_dc:NSDLEdLevel">
+				<outline vocab="Education and Training Resources -- Texts, Manuals, Other Media -- Laboratory Services" type="vocab" text="Education and Training Resources -- Texts, Manuals, Other Media -- Laboratory Services"/>
+				<outline vocab="Grade_9 Grade_10 Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional" type="vocab" text="Grade_9 Grade_10 Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional"/>
+				<outline vocab="Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional" type="vocab" text="Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional"/>
+				<outline vocab="Technical Education" type="vocab" text="Technical Education"/>
+				<outline vocab="Technical Education (Upper Division)" type="vocab" text="Technical Education (Upper Division)"/>
+				<outline vocab="Technical School Second Cycle" type="vocab" text="Technical School Second Cycle"/>
+			</outline>
+			<!-- end Technical Education (Upper Division) -->
+
+			<outline type="group" vocab="Graduate/Professional"  text="Graduate/Professional" deftn="learners pursuing advanced degrees that require a degree from a previous program" attribution="nsdl_dc:NSDLEdLevel">
+				<outline vocab="&lt;span class='vocabprefix'&gt;&lt;/span&gt;Graduate/Professional" type="vocab" text="Graduate/Professional"/>
+				<outline vocab="&lt;span class='vocabprefix'&gt;Higher Education :&lt;/span&gt;Graduate/Professional" type="vocab" text="Higher Education :Graduate/Professional"/>
+				<outline vocab="Clinical" type="vocab" text="Clinical"/>
+				<outline vocab="Clinical education" type="vocab" text="Clinical education"/>
+				<outline vocab="College - Graduate Level" type="vocab" text="College - Graduate Level"/>
+				<outline vocab="Graduate" type="vocab" text="Graduate"/>
+				<outline vocab="Graduate Education / Research" type="vocab" text="Graduate Education / Research"/>
+				<outline vocab="Graduate_Professional" type="vocab" text="Graduate_Professional"/>
+				<outline vocab="Graduate Students" type="vocab" text="Graduate Students"/>
+				<outline vocab="Graduate students" type="vocab" text="Graduate students"/>
+				<outline vocab="Graduate/Professional" type="vocab" text="Graduate/Professional"/>
+				<outline vocab="Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional" type="vocab" text="Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional"/>
+				<outline vocab="graduate program" type="vocab" text="graduate program"/>
+				<outline vocab="graduate programs" type="vocab" text="graduate programs"/>
+				<outline vocab="graduate education" type="vocab" text="graduate education"/>
+				<outline vocab="graduate students" type="vocab" text="graduate students"/>
+				<outline vocab="graduate student" type="vocab" text="graduate student"/>
+				<outline vocab="gradschool" type="vocab" text="gradschool"/>
+				<outline vocab="graduate school" type="vocab" text="graduate school"/>
+				<outline vocab="graduate student instructor" type="vocab" text="graduate student instructor"/>
+				<outline vocab="Graduate student instructors" type="vocab" text="Graduate student instructors"/>
+				<outline vocab="graduate student instructors" type="vocab" text="graduate student instructors"/>
+				<outline vocab="graduate student teacher" type="vocab" text="graduate student teacher"/>
+				<outline vocab="graduate teaching assistant" type="vocab" text="graduate teaching assistant"/>
+				<outline vocab="Graduate Teaching Assistants" type="vocab" text="Graduate Teaching Assistants"/>
+				<outline vocab="Higher Education :Graduate/Professional" type="vocab" text="Higher Education :Graduate/Professional"/>
+				<outline vocab="Professional" type="vocab" text="Professional"/>
+				<outline vocab="professional training" type="vocab" text="professional training"/>
+				<outline vocab="professional development opportunities" type="vocab" text="professional development opportunities"/>
+				<outline vocab="professional development" type="vocab" text="professional development"/>
+				<outline vocab="Professional Development" type="vocab" text="Professional Development"/><!--has 125 returns-->
+				<outline vocab="Professional development" type="vocab" text="Professional development"/><!--has 205 returns-->
+				<outline vocab="Professional Teaching and Learning Cycle (PTLC)" type="vocab" text="Professional Teaching and Learning Cycle (PTLC)"/>
+				<outline vocab="Professional Education" type="vocab" text="Professional Education"/>
+				<outline vocab="Profession (degree program)" type="vocab" text="Profession (degree program)"/><!--has 36 returns-->
+				<outline vocab="Professional (degree program)" type="vocab" text="Professional (degree program)"/>
+				<outline vocab="Research" type="vocab" text="Research"/>
+				<outline vocab="Researcher" type="vocab" text="Researcher"/>
+				<outline vocab="Researchers" type="vocab" text="Researchers"/>
+				<outline vocab="Research graduate" type="vocab" text="Research graduate"/>
+				<outline vocab="researcher" type="vocab" text="researcher"/>
+				<outline vocab="researchers" type="vocab" text="researchers"/>
+				<outline vocab="Scientists" type="vocab" text="Scientists"/>
+				<outline vocab="teaching assistant" type="vocab" text="teaching assistant"/>
+				<outline vocab="teaching assistants (TAs)" type="vocab" text="teaching assistants (TAs)"/>
+				<outline vocab="Teaching Assistants" type="vocab" text="Teaching Assistants"/>
+				<outline vocab="University Postgrad" type="vocab" text="University Postgrad"/>
+			</outline>
+			<!-- end Graduate/Professional -->
+		</outline>
+		<!-- end Higher Education -->
+		
+		<outline type="group" vocab="Informal Education" text="Informal Education" deftn="learning by the individual taking place outside the realm of formal education" attribution="nsdl_dc:NSDLEdLevel">
+			<outline vocab="All" type="vocab" text="All"/>
+			<outline vocab="Continuous Formation" type="vocab" text="Continuous Formation"/>
+			<outline vocab="General interest" type="vocab" text="General interest"/>
+		    <outline vocab="Grade_9 Grade_10 Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional Elementary_School_Programming Middle_School_Programming High_School_Programming General_Public Youth_Public Vocational_Professional_Development_Education" type="vocab" text="Grade_9 Grade_10 Grade_11 Grade_12 Undergraduate_Freshman Undergraduate_Sophomore Undergraduate_Junior Undergraduate_Senior Technical_Education_Lower_Division Technical_Education_Upper_Division Graduate_Professional Elementary_School_Programming Middle_School_Programming High_School_Programming General_Public Youth_Public Vocational_Professional_Development_Education"/>
+			<outline vocab="Informal Education" type="vocab" text="Informal Education"/>
+			<outline vocab="Informal Learners" type="vocab" text="Informal Learners"/>
+			<outline vocab="Lifelong learners" type="vocab" text="Lifelong learners"/>
+			<outline vocab="Learner" type="vocab" text="Learner"/>
+			<outline vocab="Learners" type="vocab" text="Learners"/>
+			<outline vocab="Learner" type="vocab" text="Learner"/>
+			<outline vocab="Learner/Student" type="vocab" text="Learner/Student"/>
+			<outline vocab="Not Specified" type="vocab" text="Not Specified"/>
+			<outline vocab="Not specified" type="vocab" text="Not specified"/>
+			<outline vocab="People" type="vocab" text="People"/>
+			<outline vocab="Public audience" type="vocab" text="Public audience"/>
+			<outline vocab="Public &amp; informal education" type="vocab" text="Public &amp; informal education"/>
+			<outline vocab="Student" type="vocab" text="Student"/>
+			<outline vocab="student" type="vocab" text="student"/>
+			<outline vocab="Students" type="vocab" text="Students"/>
+			<outline vocab="students" type="vocab" text="students"/>
+		    <outline type="group" text="Elementary School Programming" vocab="Elementary School Programming" deftn=" a resource to support informal education at the elementary-school level " attribution="nsdl_dc:NSDLEdLevel">
+		        <outline vocab="Elementary School Programming" type="vocab" text="Elementary School Programming"/>
+		    </outline>
+		    <outline type="group" text="Middle School Programming" vocab="Middle School Programming" deftn=" a resource to support informal education at the middle-school level " attribution="nsdl_dc:NSDLEdLevel">
+		        <outline vocab="Middle School Programming" type="vocab" text="Middle School Programming"/>
+		    </outline>
+		    <outline type="group" text="High School Programming" vocab="High School Programming" deftn=" a resource to support informal education at the high-school level " attribution="nsdl_dc:NSDLEdLevel">
+		        <outline vocab="High School Programming" type="vocab" text="High School Programming"/>
+		    </outline>
+		    <outline type="group" text="General Public" vocab="General Public" deftn=" a resource to support informal education for adults, or adults with children " attribution="nsdl_dc:NSDLEdLevel">
+		    	<outline vocab="18 years and older individuals" type="vocab" text="18 years and older individuals"/>
+		    	<outline vocab="Adult" type="vocab" text="Adult"/>
+		    	<outline vocab="Adult" type="vocab" text="Adult"/>
+		    	<outline vocab="Continuous Formation" type="vocab" text="Continuous Formation"/>
+		    	<outline vocab="General public" type="vocab" text="General public"/>
+		    	<outline vocab="General public" type="vocab" text="General public"/>
+		    	<outline vocab="General public &#38; informal education" type="vocab" text="General public &#38; informal education"/>
+		    	<outline vocab="grandparents" type="vocab" text="grandparents"/>
+		    	<outline vocab="Grandparents" type="vocab" text="Grandparents"/>
+		    	<outline vocab="guardian" type="vocab" text="guardian"/>
+		    	<outline vocab="guardians" type="vocab" text="guardians"/>
+		    	<outline vocab="Not Specified" type="vocab" text="Not Specified"/>
+		    	<outline vocab="Not specified" type="vocab" text="Not specified"/>
+		    	<outline vocab="NSDL Community" type="vocab" text="NSDL Community"/>
+		    	<outline vocab="Parent" type="vocab" text="Parent"/>
+		    	<outline vocab="Parent/Guardian" type="vocab" text="Parent/Guardian"/>
+		    	<outline vocab="Parents" type="vocab" text="Parents"/>
+		    	<outline vocab="Public &amp; informal education" type="vocab" text="Public &amp; informal education"/>
+		    	<outline vocab="Student" type="vocab" text="Student"/>
+		    	<outline vocab="student" type="vocab" text="student"/>
+		    	<outline vocab="Students" type="vocab" text="Students"/>
+		    	<outline vocab="students" type="vocab" text="students"/>
+		        <outline vocab="Urban dweller/limited contact with nature" type="vocab" text="Urban dweller/limited contact with nature"/>
+		        <outline vocab="web20" type="vocab" text="web20"/>
+		    	<outline vocab="Women" type="vocab" text="Women"/>
+		    </outline>
+		    <outline type="group" text="Youth Public" vocab="Youth Public" deftn=" a resource to support informal education for the general public up to age 17 " attribution="nsdl_dc:NSDLEdLevel">
+		        <outline vocab="Teenager" type="vocab" text="Teenager"/>
+		        <outline vocab="Young Adult" type="vocab" text="Young Adult"/>
+		        <outline vocab="Young Children" type="vocab" text="Young Children"/>
+		    	<outline vocab="Youth Public" type="vocab" text="Youth Public"/>
+		    </outline>
+		</outline>
+		<!-- end Informal Education -->
+		
+		<outline type="group" vocab="Vocational/Professional Development Education" text="Vocational/Professional Development Education" deftn="learners in job-related or work-related professional development, continuing education programs, or skill training" attribution="nsdl_dc:NSDLEdLevel">
+			<outline vocab="Administrator" type="vocab" text="Administrator"/>
+			<outline vocab="Administrators" type="vocab" text="Administrators"/>
+			<outline vocab="college instructor" type="vocab" text="college instructor"/>
+			<outline vocab="college professor" type="vocab" text="college professor"/>
+			<outline vocab="college professors" type="vocab" text="college professors"/>
+			<outline vocab="College teachers" type="vocab" text="College teachers"/>
+			<outline vocab="College/University Instructors" type="vocab" text="College/University Instructors"/>
+			<outline vocab="Continuing Professional Development" type="vocab" text="Continuing Professional Development"/>
+			<outline vocab="Continuing education" type="vocab" text="Continuing education"/><!--has 169 returns-->
+			<outline vocab="Continuing Education" type="vocab" text="Continuing Education"/>
+			<outline vocab="Curriculum Supervisors" type="vocab" text="Curriculum Supervisors"/>
+			<outline vocab="Curriculum supervisors" type="vocab" text="Curriculum supervisors"/>
+			<outline vocab="educator" type="vocab" text="educator"/>
+			<outline vocab="Educator" type="vocab" text="Educator"/>
+			<outline vocab="Educators" type="vocab" text="Educators"/>
+			<outline vocab="educators" type="vocab" text="educators"/>
+			<outline vocab="Elementary School Teachers" type="vocab" text="Elementary School Teachers"/>
+			<outline vocab="Elementary school teachers" type="vocab" text="Elementary school teachers"/>
+			<outline vocab="Evaluator" type="vocab" text="Evaluator"/>
+			<outline vocab="Evaluators" type="vocab" text="Evaluators"/>
+			<outline vocab="Faculty" type="vocab" text="Faculty"/>
+			<outline vocab="Faculty development" type="vocab" text="Faculty development"/>
+			<outline vocab="Educator" type="vocab" text="Educator"/>
+			<outline vocab="Educators" type="vocab" text="Educators"/>
+			<outline vocab="Education, Higher" type="vocab" text="Education, Higher"/>
+			<outline vocab="Education, Elementary" type="vocab" text="Education, Elementary"/>
+			<outline vocab="Education, Higher" type="vocab" text="Education, Higher"/>
+			<outline vocab="high school teachers" type="vocab" text="high school teachers"/>
+			<outline vocab="inservice teacher" type="vocab" text="inservice teacher"/>
+			<outline vocab="instructor" type="vocab" text="instructor"/>
+			<outline vocab="K-12 Teachers" type="vocab" text="K-12 Teachers"/>
+			<outline vocab="K12 STEM educators" type="vocab" text="K12 STEM educators"/>
+			<outline vocab="Librarian" type="vocab" text="Librarian"/>
+			<outline vocab="Librarians" type="vocab" text="Librarians"/>
+			<outline vocab="Middle School Teachers" type="vocab" text="Middle School Teachers"/>
+			<outline vocab="Middle school teachers" type="vocab" text="Middle school teachers"/>
+			<outline vocab="Other Educational Professionals" type="vocab" text="Other Educational Professionals"/>
+			<outline vocab="Other educational professionals" type="vocab" text="Other educational professionals"/>
+			<outline vocab="P16 STEM educators" type="vocab" text="P16 STEM educators"/>
+			<outline vocab="Policy-Makers" type="vocab" text="Policy-Makers"/>
+			<outline vocab="Policymakers" type="vocab" text="Policymakers"/>
+			<outline vocab="Practitioner" type="vocab" text="Practitioner"/>
+			<outline vocab="professional" type="vocab" text="professional"/>		
+			<outline vocab="Professional Formation" type="vocab" text="Professional Formation"/>
+			<outline vocab="Professional/Practitioner" type="vocab" text="Professional/Practitioner"/>
+			<outline vocab="Science Teachers" type="vocab" text="Science Teachers"/>
+			<outline vocab="Science teachers" type="vocab" text="Science teachers"/>
+			<outline vocab="Scientists" type="vocab" text="Scientists"/>
+			<outline vocab="Secondary School Teachers" type="vocab" text="Secondary School Teachers"/>
+			<outline vocab="Secondary School Teachers" type="vocab" text="Secondary School Teachers"/>
+			<outline vocab="Secondary school teachers" type="vocab" text="Secondary school teachers"/>
+			<outline vocab="Teachers, Educators" type="vocab" text="Teachers, Educators"/>
+			<outline vocab="Teachers" type="vocab" text="Teachers"/>
+			<outline vocab="teachers" type="vocab" text="teachers"/>
+			<outline vocab="Teacher" type="vocab" text="Teacher"/>
+			<outline vocab="teacher" type="vocab" text="teacher"/>
+			<outline vocab="Teacher Educators" type="vocab" text="Teacher Educators"/>
+			<outline vocab="Teacher educators" type="vocab" text="Teacher educators"/>
+			<outline vocab="Teachers, Educators" type="vocab" text="Teachers, Educators"/>
+			<outline vocab="Teaching Professionals" type="vocab" text="Teaching Professionals"/>
+			<outline vocab="Teaching professionals" type="vocab" text="Teaching professionals"/>
+			<outline vocab="Teaching Assistants" type="vocab" text="Teaching Assistants"/>
+			<outline vocab="Technician" type="vocab" text="Technician"/>
+			<outline vocab="Technician/Professional/Faculty" type="vocab" text="Technician/Professional/Faculty"/>
+			<outline vocab="University instructors" type="vocab" text="University instructors"/>
+			<outline vocab="Vocational/ Professional Development Education" type="vocab" text="Vocational/ Professional Development Education"/>
+			<outline vocab="Vocational Training" type="vocab" text="Vocational Training"/>
+		</outline>
+		<!-- end Vocational/Professional Development Education -->
+	</body>
+</opml>
+<!--LICENSE AND COPYRIGHT
+The contents of this file are subject to the Educational Community License v1.0 (the "License"); you may not use this file except in compliance with the License. You should obtain a copy of the License from http://www.opensource.org/licenses/ecl1.php. Files distributed under the License are distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language governing rights and limitations under the License. Copyright 2002-2009 by Digital Learning Sciences, University Corporation for Atmospheric Research (UCAR). All rights reserved.-->

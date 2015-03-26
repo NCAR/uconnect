@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.00">
+
+    <xs:annotation>
+        <xs:documentation>*****************************</xs:documentation>
+        <xs:documentation>*****SCHEMA DEVELOPMENT******</xs:documentation>
+        <xs:documentation>*****************************</xs:documentation>
+        <xs:documentation>Created: 2015-03-16</xs:documentation>
+        <xs:documentation>Author: Julianne Blomer, University Corporation for Atmospheric Research (UCAR), jblomer@ucar.edu</xs:documentation>
+        <xs:documentation>Purpose: One of the controlled vocabularies supported for subject. This list is intended to supplement the description of UCAR educational materials.</xs:documentation>
+        <xs:documentation>Copyright for this file: See LICENSE AND COPYRIGHT at the end of this file.</xs:documentation>
+    </xs:annotation>
+
+    <xs:annotation>
+        <xs:documentation>**************************************</xs:documentation>
+        <xs:documentation>*****HISTORY OF IMPORTANT CHANGES*****</xs:documentation>
+        <xs:documentation>**************************************</xs:documentation>
+        <xs:documentation></xs:documentation>
+    </xs:annotation>
+
+    <xs:annotation>
+        <xs:documentation>**********************</xs:documentation>
+        <xs:documentation>*****ROOT ELEMENT*****</xs:documentation>
+        <xs:documentation>**********************</xs:documentation>
+        <xs:documentation>None</xs:documentation>
+    </xs:annotation>
+
+    <xs:annotation>
+        <xs:documentation>************************************</xs:documentation>
+        <xs:documentation>*****SIMPLE TYPES (alpha order)*****</xs:documentation>
+        <xs:documentation>************************************</xs:documentation>
+    </xs:annotation>
+
+    <xs:simpleType name="ucarSubjectType">
+        <xs:annotation>
+            <xs:documentation>***** partnerSubjectType *****</xs:documentation>
+            <xs:documentation>Valid values for the element</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="UCAR:Astronomy"/>
+            <xs:enumeration value="UCAR:Astronomy:Moon"/>
+            <xs:enumeration value="UCAR:Astronomy:Planet"/>
+            <xs:enumeration value="UCAR:Astronomy:Star"/>
+            <xs:enumeration value="UCAR:Atmosphere"/>
+            <xs:enumeration value="UCAR:Atmosphere:Aerosol"/>
+            <xs:enumeration value="UCAR:Atmosphere:Air quality and pollution"/>
+            <xs:enumeration value="UCAR:Atmosphere:Atmospheric electricity"/>
+            <xs:enumeration value="UCAR:Atmosphere:Composition"/>
+            <xs:enumeration value="UCAR:Atmosphere:Exosphere"/>
+            <xs:enumeration value="UCAR:Atmosphere:Ionosphere"/>
+            <xs:enumeration value="UCAR:Atmosphere:Magnetosphere"/>
+            <xs:enumeration value="UCAR:Atmosphere:Mesosphere"/>
+            <xs:enumeration value="UCAR:Atmosphere:Plasmasphere"/>
+            <xs:enumeration value="UCAR:Atmosphere:Stratosphere"/>
+            <xs:enumeration value="UCAR:Atmosphere:Structure and layers"/>
+            <xs:enumeration value="UCAR:Atmosphere:Thermosphere"/>
+            <xs:enumeration value="UCAR:Atmosphere:Troposphere"/>
+            <xs:enumeration value="UCAR:Biology"/>
+            <xs:enumeration value="UCAR:Biology:Ecology and Ecosystems"/>
+            <xs:enumeration value="UCAR:Biology:Life science"/>
+            <xs:enumeration value="UCAR:Chemistry"/>
+            <xs:enumeration value="UCAR:Chemistry:Chemical reactions"/>
+            <xs:enumeration value="UCAR:Chemistry:Gas laws"/>
+            <xs:enumeration value="UCAR:Chemistry:Molecules and compounds"/>
+            <xs:enumeration value="UCAR:Climate"/>
+            <xs:enumeration value="UCAR:Climate:Climate change"/>
+            <xs:enumeration value="UCAR:Climate:Climate change:Human impacts"/>
+            <xs:enumeration value="UCAR:Climate:Climate change:Migration and adaptation"/>
+            <xs:enumeration value="UCAR:Climate:Future climate"/>
+            <xs:enumeration value="UCAR:Climate:Paleoclimate"/>
+            <xs:enumeration value="UCAR:Climate:Regional climates"/>
+            <xs:enumeration value="UCAR:Climate:Upper atmosphere"/>
+            <xs:enumeration value="UCAR:Computational science"/>
+            <xs:enumeration value="UCAR:Computational science:Algorithms"/>
+            <xs:enumeration value="UCAR:Computational science:Artificial intelligence"/>
+            <xs:enumeration value="UCAR:Computational science:Cloud computing"/>
+            <xs:enumeration value="UCAR:Computational science:Data visualization"/>
+            <xs:enumeration value="UCAR:Computational science:Modeling"/>
+            <xs:enumeration value="UCAR:Computational science:Modeling:Climate model"/>
+            <xs:enumeration value="UCAR:Computational science:Modeling:Magnetic field model"/>
+            <xs:enumeration value="UCAR:Computational science:Modeling:Space weather model"/>
+            <xs:enumeration value="UCAR:Computational science:Modeling:Weather model"/>
+            <xs:enumeration value="UCAR:Computational science:Performance"/>
+            <xs:enumeration value="UCAR:Computational science:Supercomputing"/>
+            <xs:enumeration value="UCAR:Cryosphere"/>
+            <xs:enumeration value="UCAR:Earth"/>
+            <xs:enumeration value="UCAR:Engineering"/>
+            <xs:enumeration value="UCAR:Engineering:Aerospace and Aeronautical"/>
+            <xs:enumeration value="UCAR:Engineering:Chemical"/>
+            <xs:enumeration value="UCAR:Engineering:Civil"/>
+            <xs:enumeration value="UCAR:Engineering:Electrical and Electronic"/>
+            <xs:enumeration value="UCAR:Engineering:Environmental"/>
+            <xs:enumeration value="UCAR:Engineering:Mechanical"/>
+            <xs:enumeration value="UCAR:Environmental science"/>
+            <xs:enumeration value="UCAR:Geology"/>
+            <xs:enumeration value="UCAR:Geology:Core"/>
+            <xs:enumeration value="UCAR:Geology:Lithosphere"/>
+            <xs:enumeration value="UCAR:Geology:Mantle"/>
+            <xs:enumeration value="UCAR:Geology:Rocks and minerals"/>
+            <xs:enumeration value="UCAR:Geology:Soil"/>
+            <xs:enumeration value="UCAR:Planetary magnetism"/>
+            <xs:enumeration value="UCAR:Hydrosphere"/>
+            <xs:enumeration value="UCAR:Hydrosphere:Fresh water"/>
+            <xs:enumeration value="UCAR:Hydrosphere:Ocean"/>
+            <xs:enumeration value="UCAR:Hydrosphere:Water cycle"/>
+            <xs:enumeration value="UCAR:Mathematics"/>
+            <xs:enumeration value="UCAR:Mathematics:Algebra"/>
+            <xs:enumeration value="UCAR:Mathematics:Calculus"/>
+            <xs:enumeration value="UCAR:Mathematics:Geometry"/>
+            <xs:enumeration value="UCAR:Mathematics:Trigonometry"/>
+            <xs:enumeration value="UCAR:Mathematics:Statistics"/>
+            <xs:enumeration value="UCAR:Natural resources"/>
+            <xs:enumeration value="UCAR:Natural resources:Energy"/>
+            <xs:enumeration value="UCAR:Natural resources:Energy:Nonrenewable"/>
+            <xs:enumeration value="UCAR:Natural resources:Energy:Renewable"/>
+            <xs:enumeration value="UCAR:Natural resources:Waste"/>
+            <xs:enumeration value="UCAR:Natural resources:Waste:Recycling"/>
+            <xs:enumeration value="UCAR:Physics"/>
+            <xs:enumeration value="UCAR:Physics:Energy"/>
+            <xs:enumeration value="UCAR:Physics:Force and motion"/>
+            <xs:enumeration value="UCAR:Physics:Force and motion:Pressure"/>
+            <xs:enumeration value="UCAR:Physics:Matter"/>
+            <xs:enumeration value="UCAR:Physics:Matter:Density"/>
+            <xs:enumeration value="UCAR:Physics:Matter:Mass"/>
+            <xs:enumeration value="UCAR:Physics:States of matter"/>
+            <xs:enumeration value="UCAR:Physics:States of matter:Gas"/>
+            <xs:enumeration value="UCAR:Physics:States of matter:Liquid"/>
+            <xs:enumeration value="UCAR:Physics:States of matter:Plasma"/>
+            <xs:enumeration value="UCAR:Physics:States of matter:Solid"/>
+            <xs:enumeration value="UCAR:Sun"/>
+            <xs:enumeration value="UCAR:Weather"/>
+            <xs:enumeration value="UCAR:Weather:Clouds"/>
+            <xs:enumeration value="UCAR:Weather:Forecasting"/>
+            <xs:enumeration value="UCAR:Weather:Measurement"/>
+            <xs:enumeration value="UCAR:Weather:Severe weather"/>
+            <xs:enumeration value="UCAR:Weather:Space weather"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>
+        <!--LICENSE AND COPYRIGHT
+        The contents of this file are subject to the Educational Community License v1.0 (the "License"); you may not use this file except in compliance with the License. You should obtain a copy of the License from http://www.opensource.org/licenses/ecl1.php. Files distributed under the License are distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language governing rights and limitations under the License. Copyright 2002-2015 by Digital Learning Sciences, University Corporation for Atmospheric Research (UCAR). All rights reserved.-->
+
+
+
+
+
+
+
+
+
+

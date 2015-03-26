@@ -1,0 +1,5619 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+
+<DDSWebService xmlns="http://www.dlese.org/Metadata/ddsws" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dlese.org/Metadata/ddsws http://www.dlese.org/Metadata/ddsws/1-1/ddsws.xsd">
+	<ListCollections>
+		<searchField>ky</searchField>
+		<collections> 
+		
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-110</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-110</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-110</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>38</numRecords>
+					<numRecordsIndexed>38</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>A Mathematical Way to Think About Biology</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-110-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-110-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-110-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>38</numRecords>
+					<numRecordsIndexed>38</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>A Mathematical Way to Think About Biology (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-106</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-106</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-106</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>519</numRecords>
+					<numRecordsIndexed>519</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>AMSER LAR Collection</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-106-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-106-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-106-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>519</numRecords>
+					<numRecordsIndexed>519</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>AMSER LAR Collection (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-021</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-021</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-021</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>14330</numRecords>
+					<numRecordsIndexed>14330</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>AMSER: Applied Math and Science Education Repository</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>439881</vocabEntry>
+				<searchKey>439881</searchKey>
+				<recordId>439881</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>206</numRecords>
+					<numRecordsIndexed>206</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Access Excellence @ The National Health Museum: The Site for Health and Bioscience Teachers and Learners</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-042</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-042</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-042</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>75</numRecords>
+					<numRecordsIndexed>75</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>AlgoViz.org: The Algorithm Visualization Portal</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-024</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-024</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-024</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>773</numRecords>
+					<numRecordsIndexed>773</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>American Museum of Natural History</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>441531</vocabEntry>
+				<searchKey>441531</searchKey>
+				<recordId>441531</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>2660</numRecords>
+					<numRecordsIndexed>2660</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Animal Diversity Web</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-017</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-017</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-017</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>20</numRecords>
+					<numRecordsIndexed>20</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Ask A Biologist</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-008</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-008</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-008</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>296</numRecords>
+					<numRecordsIndexed>296</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Association for Middle Level Education</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>920106</vocabEntry>
+				<searchKey>920106</searchKey>
+				<recordId>920106</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>38</numRecords>
+					<numRecordsIndexed>38</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Atomic Archive</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-989</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-989</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-989</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>482</numRecords>
+					<numRecordsIndexed>482</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Beyond Penguins and Polar Bears: An Online Magazine for K-5 Teachers</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-047</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-047</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-047</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>76</numRecords>
+					<numRecordsIndexed>76</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Beyond Weather and the Water Cycle</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-903</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-903</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-903</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>152</numRecords>
+					<numRecordsIndexed>152</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Biological Sciences Gateways and Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>BEN</vocabEntry>
+				<searchKey>BEN</searchKey>
+				<recordId>BEN</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>18392</numRecords>
+					<numRecordsIndexed>18392</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>BiosciEdNet (BEN): Digital Library Portal for Teaching and Learning in the Biological Sciences</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-048</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-048</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-048</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>10</numRecords>
+					<numRecordsIndexed>10</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Black Box Software Testing</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>2954993</vocabEntry>
+				<searchKey>2954993</searchKey>
+				<recordId>2954993</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>140</numRecords>
+					<numRecordsIndexed>140</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Bridge-NOAA Collection</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>2667291</vocabEntry>
+				<searchKey>2667291</searchKey>
+				<recordId>2667291</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>986</numRecords>
+					<numRecordsIndexed>986</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Bridge: Sea Grant Ocean Sciences Resources Center</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-086</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-086</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-086</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_anno</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>645</numRecords>
+					<numRecordsIndexed>645</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>CLEAN Review Comments</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-087</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-087</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-087</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_anno</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>628</numRecords>
+					<numRecordsIndexed>628</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>CLEAN Review Teaching Tips</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-026</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-026</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-026</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>599</numRecords>
+					<numRecordsIndexed>599</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>CLEAN: Climate Literacy and Energy Awareness Network</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>3111902</vocabEntry>
+				<searchKey>3111902</searchKey>
+				<recordId>3111902</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>349</numRecords>
+					<numRecordsIndexed>349</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>COMET MetEd Collection</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>3111902-lar</vocabEntry>
+				<searchKey>3111902-lar</searchKey>
+				<recordId>3111902-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>349</numRecords>
+					<numRecordsIndexed>349</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>COMET MetEd Collection (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-055</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-055</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-055</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>1812</numRecords>
+					<numRecordsIndexed>1812</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>CSERD: Computational Science Education Reference Desk</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-057</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-057</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-057</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_para</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>136</numRecords>
+					<numRecordsIndexed>136</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>CTE Online</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-046</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-046</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-046</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>413</numRecords>
+					<numRecordsIndexed>413</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Case Study Collection: National Center for Case Study Teaching in Science</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-111</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-111</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-111</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>102</numRecords>
+					<numRecordsIndexed>102</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Center for Advanced Automotive Technology</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-111-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-111-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-111-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>102</numRecords>
+					<numRecordsIndexed>102</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Center for Advanced Automotive Technology (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>1539788</vocabEntry>
+				<searchKey>1539788</searchKey>
+				<recordId>1539788</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>64</numRecords>
+					<numRecordsIndexed>64</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Centers for Ocean Sciences Education Excellence (COSEE)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-059</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-059</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-059</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>12</numRecords>
+					<numRecordsIndexed>12</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Changing Planet</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-097</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-097</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-097</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>112</numRecords>
+					<numRecordsIndexed>112</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>ChemTeacher</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-097-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-097-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-097-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>112</numRecords>
+					<numRecordsIndexed>112</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>ChemTeacher (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-050</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-050</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-050</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>1185</numRecords>
+					<numRecordsIndexed>1185</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Chemical Education Digital Library (ChemEd DL)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-904</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-904</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-904</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>39</numRecords>
+					<numRecordsIndexed>39</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Chemistry Gateways and Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-038</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-038</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-038</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_anno</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>1205</numRecords>
+					<numRecordsIndexed>1205</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Choosing and Using DLESE</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-117</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-117</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-117</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>19</numRecords>
+					<numRecordsIndexed>19</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Citizen Science</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-117-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-117-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-117-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>19</numRecords>
+					<numRecordsIndexed>19</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Citizen Science (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-102</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-102</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-102</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>182</numRecords>
+					<numRecordsIndexed>182</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>ComPADRE Classroom-Ready Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-102-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-102-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-102-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>182</numRecords>
+					<numRecordsIndexed>182</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>ComPADRE Classroom-Ready Resources (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>439869</vocabEntry>
+				<searchKey>439869</searchKey>
+				<recordId>439869</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>7445</numRecords>
+					<numRecordsIndexed>7445</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>ComPADRE: Resources for Physics and Astronomy Education</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-COLLECTION-000-003-112-058</vocabEntry>
+				<searchKey>ncs-COLLECTION-000-003-112-058</searchKey>
+				<recordId>ncs-COLLECTION-000-003-112-058</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_para</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>7043</numRecords>
+					<numRecordsIndexed>7043</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>ComPADRE: Resources for Physics and Astronomy Education Paradata</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-905</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-905</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-905</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>29</numRecords>
+					<numRecordsIndexed>29</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Computer Science and Information Technology Gateways and Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-092</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-092</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-092</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>83</numRecords>
+					<numRecordsIndexed>83</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Concord Consortium Collection</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-092-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-092-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-092-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>83</numRecords>
+					<numRecordsIndexed>83</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Concord Consortium Collection (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>475993</vocabEntry>
+				<searchKey>475993</searchKey>
+				<recordId>475993</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>10</numRecords>
+					<numRecordsIndexed>10</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Curricular Resource Library (cURL): Earth and Environmental Sciences</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>2955038</vocabEntry>
+				<searchKey>2955038</searchKey>
+				<recordId>2955038</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>42</numRecords>
+					<numRecordsIndexed>42</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>DLESE Collections</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>dlese.org</vocabEntry>
+				<searchKey>dlese.org</searchKey>
+				<recordId>dlese.org</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>5749</numRecords>
+					<numRecordsIndexed>5749</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>DLESE Community Collection</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-979</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-979</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-979</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>85</numRecords>
+					<numRecordsIndexed>85</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Demos With Positive Impact</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-039</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-039</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-039</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>123</numRecords>
+					<numRecordsIndexed>123</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Developmental Mathematics Collection</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>380599</vocabEntry>
+				<searchKey>380599</searchKey>
+				<recordId>380599</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>331</numRecords>
+					<numRecordsIndexed>331</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Digital Water Education Library (DWEL)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-007</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-007</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-007</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>342</numRecords>
+					<numRecordsIndexed>342</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>DragonflyTV</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-100</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-100</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-100</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_anno</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>43</numRecords>
+					<numRecordsIndexed>43</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>ELA Annotations for NSDL Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>380604</vocabEntry>
+				<searchKey>380604</searchKey>
+				<recordId>380604</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>49</numRecords>
+					<numRecordsIndexed>49</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Earth Exploration Toolbook: Step-by-Step Guides for Investigating Earth System Data</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>2827374</vocabEntry>
+				<searchKey>2827374</searchKey>
+				<recordId>2827374</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>91</numRecords>
+					<numRecordsIndexed>91</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Earth System Science Informal Education Network (ESSIEN)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-082</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-082</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-082</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>5</numRecords>
+					<numRecordsIndexed>5</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>EarthLabs</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>2918931</vocabEntry>
+				<searchKey>2918931</searchKey>
+				<recordId>2918931</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>149</numRecords>
+					<numRecordsIndexed>149</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Earthquake Education Environment (E3)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-033</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-033</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-033</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>42</numRecords>
+					<numRecordsIndexed>42</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Education Place: Houghton Mifflin Science</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-906</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-906</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-906</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>66</numRecords>
+					<numRecordsIndexed>66</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Engineering and Technology Gateways and Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-029</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-029</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-029</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>6</numRecords>
+					<numRecordsIndexed>6</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Ensemble: Computing Pathway</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>2634352</vocabEntry>
+				<searchKey>2634352</searchKey>
+				<recordId>2634352</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>53</numRecords>
+					<numRecordsIndexed>53</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Environmental Science Activities for the 21st Century</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-035</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-035</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-035</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>78</numRecords>
+					<numRecordsIndexed>78</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Exploring Earth Investigations</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>1468455</vocabEntry>
+				<searchKey>1468455</searchKey>
+				<recordId>1468455</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>370</numRecords>
+					<numRecordsIndexed>370</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Fun Works . . . for Careers You Never Knew Existed</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>475995</vocabEntry>
+				<searchKey>475995</searchKey>
+				<recordId>475995</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>131</numRecords>
+					<numRecordsIndexed>131</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>GLOBE Teacher's Guide</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-907</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-907</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-907</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>94</numRecords>
+					<numRecordsIndexed>94</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>General Science and STEM Gateways and Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-908</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-908</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-908</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>110</numRecords>
+					<numRecordsIndexed>110</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Geosciences Gateways and Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-909</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-909</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-909</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>15</numRecords>
+					<numRecordsIndexed>15</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Health Sciences Gateways and Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-032</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-032</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-032</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>12</numRecords>
+					<numRecordsIndexed>12</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Hiroshima and Nagasaki Remembered</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-910</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-910</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-910</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>24</numRecords>
+					<numRecordsIndexed>24</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>History of Science and Technology Gateways and Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-103</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-103</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-103</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>952</numRecords>
+					<numRecordsIndexed>952</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Illustrative Mathematics</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-103-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-103-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-103-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>952</numRecords>
+					<numRecordsIndexed>952</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Illustrative Mathematics (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-990</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-990</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-990</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>1981</numRecords>
+					<numRecordsIndexed>1981</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Instructional Architect</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-043</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-043</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-043</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_para</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>9157</numRecords>
+					<numRecordsIndexed>9157</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Instructional Architect Usage Data</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>internetscout</vocabEntry>
+				<searchKey>internetscout</searchKey>
+				<recordId>internetscout</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>24286</numRecords>
+					<numRecordsIndexed>24286</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Internet Scout Project</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-091</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-091</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-091</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>37</numRecords>
+					<numRecordsIndexed>37</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Jonathan Bird's Blue World</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-091-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-091-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-091-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>37</numRecords>
+					<numRecordsIndexed>37</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Jonathan Bird's Blue World (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-090</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-090</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-090</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>42</numRecords>
+					<numRecordsIndexed>42</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Key Concepts in Algebra</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-090-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-090-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-090-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>43</numRecords>
+					<numRecordsIndexed>43</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Key Concepts in Algebra (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-081</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-081</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-081</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>59</numRecords>
+					<numRecordsIndexed>59</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Key Concepts in Biology</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-081-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-081-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-081-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>60</numRecords>
+					<numRecordsIndexed>60</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Key Concepts in Biology (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>2634351</vocabEntry>
+				<searchKey>2634351</searchKey>
+				<recordId>2634351</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>95</numRecords>
+					<numRecordsIndexed>95</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>MY NASA DATA: Mentoring and Inquiry using NASA Data on Atmospheric and Earth Science for Teachers and Amateurs</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-054</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-054</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-054</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>551</numRecords>
+					<numRecordsIndexed>551</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>MatDL: Materials Digital Library Pathway</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-101</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-101</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-101</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_anno</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>84</numRecords>
+					<numRecordsIndexed>84</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Math Common Core Annotations for NSDL Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-049</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-049</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-049</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>6</numRecords>
+					<numRecordsIndexed>6</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Math Forum Collection</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-003</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-003</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-003</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>20</numRecords>
+					<numRecordsIndexed>20</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Math Images</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-911</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-911</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-911</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>65</numRecords>
+					<numRecordsIndexed>65</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Mathematics Gateways and Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-027</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-027</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-027</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>1925</numRecords>
+					<numRecordsIndexed>1925</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Mathlanding: Elementary Mathematics Pathway</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>1030947</vocabEntry>
+				<searchKey>1030947</searchKey>
+				<recordId>1030947</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>778</numRecords>
+					<numRecordsIndexed>778</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Microbial Life Educational Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>1007936</vocabEntry>
+				<searchKey>1007936</searchKey>
+				<recordId>1007936</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>2613</numRecords>
+					<numRecordsIndexed>2613</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Middle School Portal: Math and Science Pathways (MSP2)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-065</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-065</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-065</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>69</numRecords>
+					<numRecordsIndexed>69</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Minds-On Activities for Teaching Biology</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>2802835</vocabEntry>
+				<searchKey>2802835</searchKey>
+				<recordId>2802835</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>462</numRecords>
+					<numRecordsIndexed>462</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>NASA Earth and Space Science Education Collection</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>2802786</vocabEntry>
+				<searchKey>2802786</searchKey>
+				<recordId>2802786</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>498</numRecords>
+					<numRecordsIndexed>498</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>NASA Earth and Space Science Reviewed Collection</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-115</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-115</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-115</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>1851</numRecords>
+					<numRecordsIndexed>1851</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>NASA Wavelength</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-115-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-115-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-115-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>2029</numRecords>
+					<numRecordsIndexed>2029</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>NASA Wavelength (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-044</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-044</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-044</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_anno</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>137</numRecords>
+					<numRecordsIndexed>137</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>NSDL Bilingual Collection</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-078</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-078</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-078</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>26</numRecords>
+					<numRecordsIndexed>26</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>NSDL English Language Arts</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-078-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-078-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-078-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>26</numRecords>
+					<numRecordsIndexed>26</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>NSDL English Language Arts (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-016</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-016</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-016</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>387</numRecords>
+					<numRecordsIndexed>387</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>NSDL Math Common Core</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-016-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-016-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-016-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>390</numRecords>
+					<numRecordsIndexed>390</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>NSDL Math Common Core (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-074</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-074</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-074</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_para</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>347</numRecords>
+					<numRecordsIndexed>347</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>NSDL Resource Shares Paradata</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-012</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-012</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-012</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>167</numRecords>
+					<numRecordsIndexed>167</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>NSDL Science Refreshers</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-977</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-977</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-977</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>9</numRecords>
+					<numRecordsIndexed>9</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>NSDL Web Seminars</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-981</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-981</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-981</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>106</numRecords>
+					<numRecordsIndexed>106</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>National Curve Bank</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-993</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-993</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-993</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>133</numRecords>
+					<numRecordsIndexed>133</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>National Science Foundation (NSF) Special Reports and Videos</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>2725791</vocabEntry>
+				<searchKey>2725791</searchKey>
+				<recordId>2725791</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>6242</numRecords>
+					<numRecordsIndexed>6242</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>National Science Teachers Association (NSTA) Learning Center</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>1539790</vocabEntry>
+				<searchKey>1539790</searchKey>
+				<recordId>1539790</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>69</numRecords>
+					<numRecordsIndexed>69</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>New York State Earth Science Instructional Collection</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>380601</vocabEntry>
+				<searchKey>380601</searchKey>
+				<recordId>380601</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>2861</numRecords>
+					<numRecordsIndexed>2861</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>On the Cutting Edge: Professional Development for Geoscience Faculty</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>1541648</vocabEntry>
+				<searchKey>1541648</searchKey>
+				<recordId>1541648</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>36</numRecords>
+					<numRecordsIndexed>36</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Online Psychology Laboratory (OPL)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-088</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-088</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-088</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>299</numRecords>
+					<numRecordsIndexed>299</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>PBS Learning Media Common Core Collection</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-088-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-088-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-088-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>299</numRecords>
+					<numRecordsIndexed>299</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>PBS Learning Media Common Core Collection (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-089</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-089</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-089</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_para</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>107</numRecords>
+					<numRecordsIndexed>107</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>PBS Learning Media Common Core Paradata</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>316957</vocabEntry>
+				<searchKey>316957</searchKey>
+				<recordId>316957</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>2075</numRecords>
+					<numRecordsIndexed>2075</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>PBS Learning Media: Multimedia Resources for the Classroom and Professional Development</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>316957-lar</vocabEntry>
+				<searchKey>316957-lar</searchKey>
+				<recordId>316957-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>2075</numRecords>
+					<numRecordsIndexed>2075</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>PBS Learning Media: Multimedia Resources for the Classroom and Professional Development (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-099</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-099</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-099</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_para</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>353</numRecords>
+					<numRecordsIndexed>353</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>PBS Learning Media: Multimedia Resources for the Classroom and Professional Development Paradata</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-061</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-061</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-061</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_anno</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>241</numRecords>
+					<numRecordsIndexed>241</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>PRISMS Annotations</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-936</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-936</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-936</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>211</numRecords>
+					<numRecordsIndexed>211</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>PRISMS: Phenomena and Representations for the Instruction of Science in Middle School</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-985</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-985</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-985</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>205</numRecords>
+					<numRecordsIndexed>205</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Paleontological Research Institution (PRI) - Museum of the Earth</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-025</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-025</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-025</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>1421</numRecords>
+					<numRecordsIndexed>1421</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Pedagogy in Action</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-051</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-051</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-051</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>128</numRecords>
+					<numRecordsIndexed>128</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>PhET Interactive Simulations</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-912</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-912</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-912</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>50</numRecords>
+					<numRecordsIndexed>50</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Physics Gateways and Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-999</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-999</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-999</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>289</numRecords>
+					<numRecordsIndexed>289</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Plant and Soil Sciences eLibrary</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>369642</vocabEntry>
+				<searchKey>369642</searchKey>
+				<recordId>369642</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>558</numRecords>
+					<numRecordsIndexed>558</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Reciprocal Net: A Distributed Crystallography Network for Researchers, Students, and the General Public</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>collect</vocabEntry>
+				<searchKey>04</searchKey>
+				<recordId>COLLECTIONS-COLLECTION-001</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>dlese_collect</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>160</numRecords>
+					<numRecordsIndexed>160</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+						<label>Repository Collections</label>
+						<labelAbbrev>Collect</labelAbbrev>					
+						<noDisplay>true</noDisplay>
+						<wrap>false</wrap>
+						<divider>false</divider>
+						<hasSubList>false</hasSubList>
+						<isLastInSubList>false</isLastInSubList>
+						<groupLevel>0</groupLevel> 
+					
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-949</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-949</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-949</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>10</numRecords>
+					<numRecordsIndexed>10</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Resources for Educational Benchmarks</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-028</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-028</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-028</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>258</numRecords>
+					<numRecordsIndexed>258</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>SMARTR: Virtual Learning Experiences for Youth</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-056</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-056</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-056</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>3105</numRecords>
+					<numRecordsIndexed>3105</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>SMILE Pathway: Science and Math Activities in One Search</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-056-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-056-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-056-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>3218</numRecords>
+					<numRecordsIndexed>3218</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>SMILE Pathway: Science and Math Activities in One Search (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-075</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-075</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-075</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_para</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>2165</numRecords>
+					<numRecordsIndexed>2165</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>SMILE Pathway: Science and Math Activities in One Search Paradata</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-915</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-915</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-915</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>48</numRecords>
+					<numRecordsIndexed>48</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>STEM Education and Educational Technology Gateways and Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NAB-000-000-000-079</vocabEntry>
+				<searchKey>ncs-NAB-000-000-000-079</searchKey>
+				<recordId>ncs-NAB-000-000-000-079</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>10</numRecords>
+					<numRecordsIndexed>10</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Science Friday</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NAB-000-000-000-079-lar</vocabEntry>
+				<searchKey>ncs-NAB-000-000-000-079-lar</searchKey>
+				<recordId>ncs-NAB-000-000-000-079-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>10</numRecords>
+					<numRecordsIndexed>10</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Science Friday (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-041</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-041</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-041</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>10</numRecords>
+					<numRecordsIndexed>10</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Science of NFL Football</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-067</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-067</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-067</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>10</numRecords>
+					<numRecordsIndexed>10</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Science of NHL Hockey</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-002</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-002</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-002</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>54</numRecords>
+					<numRecordsIndexed>54</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Science of Winter</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>456144</vocabEntry>
+				<searchKey>456144</searchKey>
+				<recordId>456144</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>2188</numRecords>
+					<numRecordsIndexed>2188</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Scientific Visualization Studio</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>2827371</vocabEntry>
+				<searchKey>2827371</searchKey>
+				<recordId>2827371</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>16</numRecords>
+					<numRecordsIndexed>16</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Simplified Image Management and Processing Learning Environment for Science (SIMPLE Science)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-913</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-913</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-913</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>27</numRecords>
+					<numRecordsIndexed>27</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Social Sciences Gateways and Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-914</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-914</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-914</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>51</numRecords>
+					<numRecordsIndexed>51</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Space Sciences Gateways and Resources</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>380602</vocabEntry>
+				<searchKey>380602</searchKey>
+				<recordId>380602</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>928</numRecords>
+					<numRecordsIndexed>928</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Starting Point: Teaching Entry Level Geoscience</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-104</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-104</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-104</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>24</numRecords>
+					<numRecordsIndexed>24</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Sustainability Learning Suites</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-104-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-104-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-104-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>24</numRecords>
+					<numRecordsIndexed>24</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Sustainability Learning Suites (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>2669651</vocabEntry>
+				<searchKey>2669651</searchKey>
+				<recordId>2669651</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>451</numRecords>
+					<numRecordsIndexed>451</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Teach the Earth</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>928276</vocabEntry>
+				<searchKey>928276</searchKey>
+				<recordId>928276</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>1437</numRecords>
+					<numRecordsIndexed>1437</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>TeachEngineering: Resources for K-12</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>928276-lar</vocabEntry>
+				<searchKey>928276-lar</searchKey>
+				<recordId>928276-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>1437</numRecords>
+					<numRecordsIndexed>1437</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>TeachEngineering: Resources for K-12 (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-083</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-083</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-083</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_anno</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>1442</numRecords>
+					<numRecordsIndexed>1442</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>TeachEngineering: Resources for K-12 Annotations</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-084</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-084</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-084</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_para</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>1438</numRecords>
+					<numRecordsIndexed>1438</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>TeachEngineering: Resources for K-12 Paradata</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-064</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-064</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-064</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>76</numRecords>
+					<numRecordsIndexed>76</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>TeachSpatial</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-063</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-063</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-063</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_anno</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>2476</numRecords>
+					<numRecordsIndexed>2476</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>TeachSpatial Annotations</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-011</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-011</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-011</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>556</numRecords>
+					<numRecordsIndexed>556</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>TeachingWithData.org</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-112</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-112</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-112</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>6</numRecords>
+					<numRecordsIndexed>6</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>The GLOBE Collection</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-112-lar</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-112-lar</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-112-lar</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>lar</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>6</numRecords>
+					<numRecordsIndexed>6</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>The GLOBE Collection (LAR metadata)</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-031</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-031</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-031</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>7</numRecords>
+					<numRecordsIndexed>7</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Trinity Remembered: Historic Documents, Photos, and Videos</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-111-980</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-111-980</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-111-980</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>54</numRecords>
+					<numRecordsIndexed>54</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Virtual Laboratories in Probability and Statistics</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>441521</vocabEntry>
+				<searchKey>441521</searchKey>
+				<recordId>441521</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>47</numRecords>
+					<numRecordsIndexed>47</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Visionlearning</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-052</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-052</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-052</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>23</numRecords>
+					<numRecordsIndexed>23</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Web Adventures: Explore Science One Game at a Time</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-018</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-018</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-018</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>80</numRecords>
+					<numRecordsIndexed>80</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Wisconsin Fast Plants Activity and Resource Library</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-004</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-004</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-004</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>18</numRecords>
+					<numRecordsIndexed>18</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>Wolfram Research</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-077</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-077</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-077</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>comm_para</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>932</numRecords>
+					<numRecordsIndexed>932</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>iCPALMS: A Standards-based K-12 Resources and Tools Paradata</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>ncs-NSDL-COLLECTION-000-003-112-053</vocabEntry>
+				<searchKey>ncs-NSDL-COLLECTION-000-003-112-053</searchKey>
+				<recordId>ncs-NSDL-COLLECTION-000-003-112-053</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>2110</numRecords>
+					<numRecordsIndexed>2110</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>iCPALMS: A Standards-based K-12 Resources and Tools Pathway</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+							
+			
+						
+			<collection>
+				<vocabEntry>iLumina</vocabEntry>
+				<searchKey>iLumina</searchKey>
+				<recordId>iLumina</recordId>
+
+				
+			<additionalMetadata>
+				<dlese_collect>
+					<formatOfRecords>nsdl_dc</formatOfRecords>
+					<isEnabled>true</isEnabled>
+					<numRecords>1909</numRecords>
+					<numRecordsIndexed>1909</numRecordsIndexed>
+					<partOfDrc>false</partOfDrc>
+					
+					
+				</dlese_collect>				
+			</additionalMetadata>
+
+
+
+
+				<renderingGuidelines>
+				
+					
+					
+						<label>iLumina Digital Library</label>
+						<noDisplay>false</noDisplay>
+					
+				
+				</renderingGuidelines>
+			</collection>
+		
+		</collections>
+	</ListCollections>
+</DDSWebService>

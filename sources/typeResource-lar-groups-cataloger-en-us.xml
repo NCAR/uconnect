@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns="http://ns.nsdl.org/ncs/fields" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ns.nsdl.org/ncs/fields http://ns.nsdl.org/ncs/lar/1.00/schemas/fields/typeResource.xsd"
+version="2.0">
+	<head>
+		<title>Resource Type</title>
+		<concept language="en-us" metaFormat="lar" metaVersion="1.00" text="Resource type" audience="cataloger" path="/record/type" smartCheckBox="true"/>
+	</head>
+	<body>
+		<outline text="Assessment Materials" type="group" deftn="material that enables evaluation or measurement of progress, development, ability, skill, understanding, knowledge, aptitude, achievement, or an opinion/attitude" vocab="Assessment Material">
+			<outline vocab="Assessment Item" type="vocab" text="Assessment Item"/>
+			<outline vocab="Answer Key" type="vocab" text="Answer Key"/>
+			<outline vocab="Rubric" type="vocab" text="Rubric"/>
+			<outline vocab="Test" type="vocab" text="Test"/>
+		</outline>
+		<outline text="Instructional Materials" type="group" deftn="resource or learning object intended to facilitate teaching or enable learning" vocab="Instructional Material" wrap="true">
+			<outline vocab="Activity" type="vocab" text="Activity"/>
+			<outline vocab="Animation/Movie" type="vocab" text="Animation/Movie"/>
+			<outline vocab="Article" type="vocab" text="Article"/>
+			<outline vocab="Case Study" type="vocab" text="Case Study"/>
+			<outline vocab="Code" type="vocab" text="Code"/>
+			<outline vocab="Course" type="vocab" text="Course"/>
+			<outline vocab="Curriculum" type="vocab" text="Curriculum"/>
+			<outline vocab="Data" type="vocab" text="Data"/>
+			<outline vocab="Demonstration" type="vocab" text="Demonstration"/>
+			<outline vocab="Documentary" type="vocab" text="Documentary"/>
+			<outline vocab="Experiment/Lab Activity" type="vocab" text="Experiment/Lab"/>
+			<outline vocab="Field Trip" type="vocab" text="Field Trip"/>
+			<outline vocab="Game" type="vocab" text="Game"/>
+			<outline vocab="Graph" type="vocab" text="Graph"/>
+			<outline vocab="Illustration" type="vocab" text="Illustration" wrap="true"/>
+			<outline vocab="Image/Image Set" type="vocab" text="Image/Image Set"/>
+			<outline vocab="Instructor Guide/Manual" type="vocab" text="Instructor Guide/Manual"/>
+			<outline vocab="Informative Text" type="vocab" text="Informative Text"/>
+			<outline vocab="Interactive Simulation" type="vocab" text="Interactive Simulation"/>
+			<outline vocab="Lecture/Presentation" type="vocab" text="Lecture or Presentation"/>
+			<outline vocab="Lesson/Lesson Plan" type="vocab" text="Lesson or Lesson Plan"/>
+			<outline vocab="Map" type="vocab" text="Map"/>
+			<outline vocab="Model" type="vocab" text="Model"/>
+			<outline vocab="Music" type="vocab" text="Music"/>
+			<outline vocab="Numerical/Computer Model" type="vocab" text="Numerical/Computer Model" wrap="true"/>
+			<outline vocab="Photograph" type="vocab" text="Photograph"/>
+			<outline vocab="Problem Set" type="vocab" text="Problem Set"/>
+			<outline vocab="Professional Development" type="vocab" text="Professional Development"/>
+			<outline vocab="Project" type="vocab" text="Project"/>
+			<outline vocab="Simulation" type="vocab" text="Simulation"/>
+			<outline vocab="Sound" type="vocab" text="Sound"/>
+			<outline vocab="Specimen" type="vocab" text="Specimen"/>
+			<outline vocab="Student Guide" type="vocab" text="Student Guide"/>
+			<outline vocab="Textbook" type="vocab" text="Textbook"/>
+			<outline vocab="Tool/Software" type="vocab" text="Tool/Software"/>
+			<outline vocab="Tutorial" type="vocab" text="Tutorial"/>
+			<outline vocab="Unit" type="vocab" text="Unit"/>
+			<outline vocab="Voice Recording" type="vocab" text="Voice Recording"/>
+		</outline>
+	</body>
+</opml>
+<!--LICENSE AND COPYRIGHT
+The contents of this file are subject to the Educational Community License v1.0 (the "License"); you may not use this file except in compliance with the License. You should obtain a copy of the License from http://www.opensource.org/licenses/ecl1.php. Files distributed under the License are distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language governing rights and limitations under the License. Copyright 2002-2009 by Digital Learning Sciences, University Corporation for Atmospheric Research (UCAR). All rights reserved.-->
