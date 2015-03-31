@@ -6,6 +6,18 @@
  define('UCONNECT_SEARCH_BASE_URL', 'http://uc.dls.ucar.edu/search-api');
 
 function uconnect_init() {
+	// the preferred logical order for education level
+	$edlevel_order = array(
+				'Pre-Kindergarten',
+				'Elementary School',
+				'Middle School',
+				'High School',
+				'Higher Education',
+				'Informal Education',
+				'Vocational/Professional Development Education',
+				'Graduate/Professional'
+			);
+	variable_set('uconnect_edlevel_master_order',$edlevel_order);
 	// set base URL for ASN standards
 	variable_set('uconnect_asn_standard_base_url','http://asn.jesandco.org/resources/');
 	variable_set('uconnect_asn_standard_service_url','http://uc.dls.ucar.edu/asn/service.do?verb=ListStandards&id=');
