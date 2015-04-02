@@ -126,26 +126,28 @@ function uconnect_retrieve_vocab($url,$cache_name) {
 		else {
 			// check for namespaces
 			$ns = $xml->getNamespaces(true);
-			$xs_children = $xml->children($ns['xs']);
-			
-			if(isset($ns['xs']) && !empty($xs_children)){
-				foreach($xml->children($ns['xs'])->simpleType->restriction->enumeration as $xs_index=>$xs_value){
-					$a_data[(string)$xs_value->attributes()->value] = array(
-						'children' => array(),
-						'name' => (string)$xs_value->attributes()->value
-					);
-					
+			if(isset($ns['xs'])){
+				$xs_children = $xml->children($ns['xs']);
+				
+				if(isset($ns['xs']) && !empty($xs_children)){
+					foreach($xml->children($ns['xs'])->simpleType->restriction->enumeration as $xs_index=>$xs_value){
+						$a_data[(string)$xs_value->attributes()->value] = array(
+							'children' => array(),
+							'name' => (string)$xs_value->attributes()->value
+						);
+						
+					}
 				}
-			}
-			else {
-				// specifically for listCollections
-				foreach ($xml->Search->results->record as $index => $value) {
-					$a_data[] = array(
-						'children' => array(),
-						'id' => (string)$value -> head -> id,
-						'name' => (string)$value -> metadata -> collectionRecord -> general -> fullTitle ,
-						'xml_format' => (string)$value -> head -> additionalMetadata -> dlese_collect -> formatOfRecords
-					);
+				else {
+					// specifically for listCollections
+					foreach ($xml->Search->results->record as $index => $value) {
+						$a_data[] = array(
+							'children' => array(),
+							'id' => (string)$value -> head -> id,
+							'name' => (string)$value -> metadata -> collectionRecord -> general -> fullTitle ,
+							'xml_format' => (string)$value -> head -> additionalMetadata -> dlese_collect -> formatOfRecords
+						);
+					}
 				}
 			}
 		}
@@ -213,14 +215,13 @@ function uconnect_cache_response_check($url, $cache_name) {
 	else {
 		// retrieve response
 		$data = uconnect_retrieve_vocab($url,$cache_name);
-		
+		$name = array();
 		// sort collections alphabetically
 		if($cache_name == 'uconnect_collection_master'){
 			foreach ($data as $key => $row) {
 			    $name[$key]  = $row['name'];
 			}
 			array_multisort($name, SORT_ASC, SORT_STRING, $data);
-
 		}
 		cache_set($cache_name, $data, 'cache', time() + 360);
 	}
