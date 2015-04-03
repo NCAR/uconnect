@@ -3,5 +3,5 @@ name = UCARConnect
 description = Contains common functionality needed across UCARConnect created modules
 
 package = "UCARConnect"
-version = "7.x-1.2"
+version = "7.x-1.3"
 core = 7.x

@@ -6,6 +6,18 @@
  define('UCONNECT_SEARCH_BASE_URL', 'http://uc.dls.ucar.edu/search-api');
 
 function uconnect_init() {
+	// the preferred logical order for education level
+	$edlevel_order = array(
+				'Pre-Kindergarten',
+				'Elementary School',
+				'Middle School',
+				'High School',
+				'Higher Education',
+				'Informal Education',
+				'Vocational/Professional Development Education',
+				'Graduate/Professional'
+			);
+	variable_set('uconnect_edlevel_master_order',$edlevel_order);
 	// set base URL for ASN standards
 	variable_set('uconnect_asn_standard_base_url','http://asn.jesandco.org/resources/');
 	variable_set('uconnect_asn_standard_service_url','http://uc.dls.ucar.edu/asn/service.do?verb=ListStandards&id=');
@@ -52,6 +64,10 @@ function uconnect_init() {
 	$s_url = 'http://ns.nsdl.org/ncs/lar/1.00/schemas/vocabs/subjectPartner-UCAR.xsd';
 	variable_set('uconnect_partner_subject_master', uconnect_cache_response_check($s_url, 'uconnect_partner_subject_master'));
 	
+	$s_url = 'http://ns.nsdl.org/ncs/lar/1.00/schemas/vocabs/property.xsd';
+	variable_set('uconnect_license_properties_master', uconnect_cache_response_check($s_url, 'uconnect_license_properties_master'));
+	
+	
 	$a_ucar_collections = array(
 		'3111902',
 		'ncs-NSDL-COLLECTION-000-003-112-112'
@@ -74,7 +90,10 @@ function uconnect_retrieve_vocab($url,$cache_name) {
 				break;		
 			case 'uconnect_edlevel_display_master':
 				$alternate_file = 'sources\edLevel-groups.xml';
-				break;				
+				break;		
+			case 'uconnect_license_properties_master':
+				$alternate_file = 'sources\property.xsd';
+				break;					
 			case 'uconnect_restype_master':
 				$alternate_file = 'sources\typeResource-lar-groups-cataloger-en-us.xml';
 				break;			
@@ -82,7 +101,7 @@ function uconnect_retrieve_vocab($url,$cache_name) {
 				$alternate_file = 'sources\nsdlType-groups.xml';
 				break;			
 			case 'uconnect_partner_subject_master':
-				$alternate_file = 'sources\subjectPartner-UCAR.xml';
+				$alternate_file = 'sources\subjectPartner-UCAR.xsd';
 				break;	
 			case 'uconnect_subject_master':
 				$alternate_file = 'sources\subject-lar-groups-cataloger-en-us.xml';
@@ -114,26 +133,28 @@ function uconnect_retrieve_vocab($url,$cache_name) {
 		else {
 			// check for namespaces
 			$ns = $xml->getNamespaces(true);
-			$xs_children = $xml->children($ns['xs']);
-			
-			if(isset($ns['xs']) && !empty($xs_children)){
-				foreach($xml->children($ns['xs'])->simpleType->restriction->enumeration as $xs_index=>$xs_value){
-					$a_data[(string)$xs_value->attributes()->value] = array(
-						'children' => array(),
-						'name' => (string)$xs_value->attributes()->value
-					);
-					
+			if(isset($ns['xs'])){
+				$xs_children = $xml->children($ns['xs']);
+				
+				if(isset($ns['xs']) && !empty($xs_children)){
+					foreach($xml->children($ns['xs'])->simpleType->restriction->enumeration as $xs_index=>$xs_value){
+						$a_data[(string)$xs_value->attributes()->value] = array(
+							'children' => array(),
+							'name' => (string)$xs_value->attributes()->value
+						);
+						
+					}
 				}
-			}
-			else {
-				// specifically for listCollections
-				foreach ($xml->Search->results->record as $index => $value) {
-					$a_data[] = array(
-						'children' => array(),
-						'id' => (string)$value -> head -> id,
-						'name' => (string)$value -> metadata -> collectionRecord -> general -> fullTitle ,
-						'xml_format' => (string)$value -> head -> additionalMetadata -> dlese_collect -> formatOfRecords
-					);
+				else {
+					// specifically for listCollections
+					foreach ($xml->Search->results->record as $index => $value) {
+						$a_data[] = array(
+							'children' => array(),
+							'id' => (string)$value -> head -> id,
+							'name' => (string)$value -> metadata -> collectionRecord -> general -> fullTitle ,
+							'xml_format' => (string)$value -> head -> additionalMetadata -> dlese_collect -> formatOfRecords
+						);
+					}
 				}
 			}
 		}
@@ -201,14 +222,13 @@ function uconnect_cache_response_check($url, $cache_name) {
 	else {
 		// retrieve response
 		$data = uconnect_retrieve_vocab($url,$cache_name);
-		
+		$name = array();
 		// sort collections alphabetically
 		if($cache_name == 'uconnect_collection_master'){
 			foreach ($data as $key => $row) {
 			    $name[$key]  = $row['name'];
 			}
 			array_multisort($name, SORT_ASC, SORT_STRING, $data);
-
 		}
 		cache_set($cache_name, $data, 'cache', time() + 360);
 	}
