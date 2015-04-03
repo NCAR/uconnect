@@ -22,3 +22,4 @@ Version  | NOTES
 ------------- | -------------
 7.x-1.1  | changed collection source and search base url to new repository
 7.x-1.2  | added list of ucar only collection ids
+7.x-1.3  | addeded license properties
