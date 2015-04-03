@@ -64,6 +64,10 @@ function uconnect_init() {
 	$s_url = 'http://ns.nsdl.org/ncs/lar/1.00/schemas/vocabs/subjectPartner-UCAR.xsd';
 	variable_set('uconnect_partner_subject_master', uconnect_cache_response_check($s_url, 'uconnect_partner_subject_master'));
 	
+	$s_url = 'http://ns.nsdl.org/ncs/lar/1.00/schemas/vocabs/property.xsd';
+	variable_set('uconnect_license_properties_master', uconnect_cache_response_check($s_url, 'uconnect_license_properties_master'));
+	
+	
 	$a_ucar_collections = array(
 		'3111902',
 		'ncs-NSDL-COLLECTION-000-003-112-112'
@@ -86,7 +90,10 @@ function uconnect_retrieve_vocab($url,$cache_name) {
 				break;		
 			case 'uconnect_edlevel_display_master':
 				$alternate_file = 'sources\edLevel-groups.xml';
-				break;				
+				break;		
+			case 'uconnect_license_properties_master':
+				$alternate_file = 'sources\property.xsd';
+				break;					
 			case 'uconnect_restype_master':
 				$alternate_file = 'sources\typeResource-lar-groups-cataloger-en-us.xml';
 				break;			
@@ -94,7 +101,7 @@ function uconnect_retrieve_vocab($url,$cache_name) {
 				$alternate_file = 'sources\nsdlType-groups.xml';
 				break;			
 			case 'uconnect_partner_subject_master':
-				$alternate_file = 'sources\subjectPartner-UCAR.xml';
+				$alternate_file = 'sources\subjectPartner-UCAR.xsd';
 				break;	
 			case 'uconnect_subject_master':
 				$alternate_file = 'sources\subject-lar-groups-cataloger-en-us.xml';
