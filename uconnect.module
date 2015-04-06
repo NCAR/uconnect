@@ -133,7 +133,7 @@ function uconnect_retrieve_vocab($url,$cache_name) {
 		else {
 			// check for namespaces
 			$ns = $xml->getNamespaces(true);
-			$xs_children == '';
+			$xs_children = '';
 			if(isset($ns['xs'])){
 				$xs_children = $xml->children($ns['xs']);
 			}
