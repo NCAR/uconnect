@@ -72,7 +72,7 @@ function uconnect_init() {
 		'3111902',
 		'ncs-NSDL-COLLECTION-000-003-112-112',
 		'dcs-UCAR-COLLECTION-000-003-112-216',
-		'dcs-UCAR-COLLECTION-000-003-112-218'
+		'ncs-UCAR-COLLECTION-000-003-112-218'
 	);
 	variable_set('uconnect_collections_ucar_only',$a_ucar_collections);
 }
